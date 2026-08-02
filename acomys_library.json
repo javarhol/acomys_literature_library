@@ -869,6 +869,87 @@
     ]
   },
   {
+    "id": "W7171686255",
+    "title": "A Population of Myofibroblasts Localizing to the Panniculus Carnosus Skeletal Muscle During Skin Regeneration in the Spiny Mouse, Acomys",
+    "authors": "Malcolm Maden, Abigail Nunez",
+    "year": 2026,
+    "journal": "Cells",
+    "topics": [
+      "Neuroscience & Behavior",
+      "Immunology & Infection",
+      "Tissue: Musculoskeletal",
+      "General Regeneration & Wound Healing",
+      "Tissue: Skin & Hair"
+    ],
+    "abstract": "Myofibroblasts are considered to be the villains of regeneration, causing scarring and fibrosis after damage in many systems of the body, including the skin. They are induced by the action of pro-fibrotic cytokines released from various immune cells and express α-smooth muscle actin (α-SMA). Acomys, the spiny mouse, does not fibrose after full-thickness skin injury, it instead will regenerate all the tissues removed. We compared the appearance and behavior of myofibroblasts after skin injury in Mus (scarring) and Acomys (regenerating). In Mus, myofibroblasts appear soon after wounding, remain in the wound bed for 2 weeks, and then disappear. In contrast, Acomys myofibroblasts initially appear at the same time and location as Mus, but they disappear from the wound bed earlier. Strikingly, Acomys myofibroblasts, intensely expressing α-SMA, form a bridge between the two ends of the panniculus muscle, which remains for many weeks as the muscle regenerates completely. We suggest that this myofibroblast scaffold may be responsible for the regeneration of the panniculus carnosus, which occurs following full-thickness skin injuries in Acomys.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.3390/cells15151370",
+      "pdf": "https://doi.org/10.3390/cells15151370",
+      "landing_page": "https://doi.org/10.3390/cells15151370"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7136736644",
+      "W7131315118",
+      "W7128493142"
+    ]
+  },
+  {
+    "id": "W7171221649",
+    "title": "Species-specific housing and routine procedures for spiny mice ( <i>Acomys</i> ) maintained in large individually ventilated cages",
+    "authors": "Antonio Tomasso, Aida Rodrigo Albors, Sofía Ferreira-González, Ann M. Clemens, Vanessa A. Disela, Enric Llorens-Bobadilla, Sebastian A. Lewandowski, Gustavo Tiscórnia, Sofia Lamas, Mónica Mendes Sousa, O. Mäkelä, Anna Meller, Satu Kuure, Tim Koopmans, Kerstin Bartscherer",
+    "year": 2026,
+    "journal": "Laboratory Animals",
+    "topics": [
+      "Reproduction",
+      "Neuroscience & Behavior",
+      "Veterinary & Animal Welfare",
+      "Metabolism, Endocrinology & Physiology",
+      "Tools & Techniques",
+      "General Regeneration & Wound Healing",
+      "Tissue: Skin & Hair",
+      "Tissue: Ear / Pinna"
+    ],
+    "abstract": "Spiny mice ( Acomys spp.) are increasingly used in biomedical research owing to their unique physiological properties and ability to regenerate tissues, yet standardized laboratory housing conditions are largely based on mouse or rat models and may not adequately meet their species-specific needs. Here, we describe a practical protocol for the housing of spiny mice in large individually ventilated cages, including cage setup, diet, environmental enrichment, breeding, and health monitoring. We also provide recommendations for standard procedures used in animal research, such as identification methods, anesthesia, analgesia, and euthanasia. Last, we expand on the best laboratory practices in the context of common surgical procedures used in the field of regenerative biology, such as dorsal skin wounds and ear punch injury. Our recommendations are based on a decade of experience with routine colony management and behavioral observations at different European research sites and are intended as a practical reference for laboratories starting up Acomys colonies and as guidelines for regulatory authorities and ethics committees involved in approval processes for Acomys facilities and research.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1177/00236772261458186",
+      "pdf": "https://doi.org/10.1177/00236772261458186",
+      "landing_page": "https://doi.org/10.1177/00236772261458186"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7136736644",
+      "W7131315118",
+      "W7128493142"
+    ]
+  },
+  {
+    "id": "W7171378091",
+    "title": "Actively cycling cells in uninjured connective tissue are not a prerequisite for appendage regeneration",
+    "authors": "Emilio A. Oviedo-Rivadeneira, Ashley W. Seifert",
+    "year": 2026,
+    "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "topics": [
+      "Cell & Molecular Biology",
+      "General Regeneration & Wound Healing"
+    ],
+    "abstract": "ABSTRACT Multiple hypotheses have been formulated to explain differences in tissue repair ability across vertebrates. One hypothesis posits that the accessibility of actively cycling stromal cells within uninjured tissue confers access to a proliferative population in response to tissue damage. This hypothesis further suggests that animals with an indeterminate growth mode possess an actively cycling cell population necessary for growth that can be readily accessed for tissue regeneration. Moreover, the absence of an actively cycling population in connective tissue provides a mechanism that restricts regeneration in animals with determinate growth whose cells are refractory to cell cycle progression and proliferation to produce new tissue for morphogenesis. Here, we explore this paradigm using an EdU-BrdU pulse chase strategy in four different vertebrate species: two with determinate ( Acomys dimidiatus and Mus musculus ) and two with indeterminate modes of growth ( Danio rerio and Ambystoma mexicanum ). We find that although indeterminate growers do possess a small population of actively cycling cells, this population does not contribute to regeneration. Moreover, we found that while Acomys does not possess a population of actively cycling stromal cells, cells re-enter the cell cycle de novo in these animals to contribute to regeneration. Furthermore, testing this hypothesis allowed us to ask whether tissue injury could stimulate cell cycle re-entry – a so-called primed state - in cells at distance from the injury site in these four species and we did not find evidence of such priming in stromal or epidermal tissue. Highlights Cell cycle re-entry is a common response to injury in regenerative and non-regenerative vertebrates that is independent of actively cycling stromal cells in uninjured connective tissue Actively cycling cells do not contribute to regenerative healing in spiny mice, axolotls or zebrafish. Our data do not support systemic cell cycle activation in response to injury.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.64898/2026.07.25.740716",
+      "pdf": "https://doi.org/10.64898/2026.07.25.740716",
+      "landing_page": "https://doi.org/10.64898/2026.07.25.740716"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7136736644",
+      "W7128493142",
+      "W7161959246"
+    ]
+  },
+  {
     "id": "W4414795252",
     "title": "Metabolic and Digestive Strategies in Rodents Under Food Restriction: Insights for Adaptation to Arid Environments",
     "authors": "Carl I. Cohen, RH Farraj, Raed Mualem",
@@ -8678,6 +8759,32 @@
     ]
   },
   {
+    "id": "W2461635672",
+    "title": "Menstruating Mice",
+    "authors": "K. Gerhardt",
+    "year": 2016,
+    "journal": "Biology of Reproduction",
+    "topics": [
+      "Reproduction",
+      "Development",
+      "Immunology & Infection",
+      "Metabolism, Endocrinology & Physiology"
+    ],
+    "abstract": "Nadia Bellofiore et al. have discovered a rodent species that menstruates [1]. The spiny mouse (Acomys cahirinus) joins 0.09% of menstruating non-primate mammals out of the known 5502 mammals; as such, this discovery is an invaluable windfall to the field of reproductive science. Existing mouse models can be manipulated to exhibit menstruation, but they are of limited use when attempting to understand nuances of menstruation-related disorders, are costly to produce, and difficult to maintain. Menstruation is defined as the cyclical shedding of the endometrium post-decidualization in the absence of a pregnancy. This process is theorized to be a development in maternal defense against extensive invasion of trophoblast cells. Trophoblasts are specialized cells that form the placenta and the peripheral cells of the blastocyst. During pregnancy, trophoblast invasion is vital to connect blood and nutrient flow to a developing fetus. As the invasion continues through the inner third of the myometrium, the maternal protective layer between the fetus and the mother's blood deteriorates. This mode of placentation is referred to as haemochorial placentation. Other health consequences deriving from an unbalanced menses, or spontaneous decidualization prior to menses, include endometriosis, preeclampsia, and placenta accreta. Endometriosis is an often chronic condition that affects up to 10% of all women of reproductive age worldwide, possibly resulting in severe pelvic pain and infertility. Current treatments only ameliorate the symptoms of endometriosis rather than the root of the disease itself. A naturally occurring menstruation cycle in a rodent species has the potential to provide a valuable model for studying the physiological event and other menstruation-related disorders. The sporadic appearance of blood at the vaginal openings of members of their spiny mouse colony prompted the team at the Hudson Institute of Medical Research to investigate. They used lavages to collect samples and confirm menstruation, with an average cycle ranging from 6 to 10 days. In addition to the follicular and luteal phases seen in rodents, the spiny mouse showed a third stage consistent with a menses cycle, characterized by an increase in red blood cells. Through histological staining, the thinning and growth of the endometrium was tracked and found to be in sync with the follicular and luteal phases, respectively, followed by degeneration of the corpus luteum and endometrial shedding. Investigators used a combination of histological and immunohistochemical findings to corroborate their physiological findings with hormonal changes in progesterone. This discovery is unprecedented and researchers are calling for a more thorough examination of other spiny mice and related species to determine if menstruation has been overlooked in other mammals. The spiny mouse has a strong potential to transform the field of reproductive biology as a cost effective and natural model for menstruation that can answer long-standing questions about the etiology of endometriosis and related diseases.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1095/biolreprod.116.143511",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1095/biolreprod.116.143511"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7136736644",
+      "W7131315118",
+      "W7163161046"
+    ]
+  },
+  {
     "id": "W2295542487",
     "title": "Hypoxic ischemic encephalopathy : new insights in neuroprotection",
     "authors": "Renaud Viellevoye",
@@ -14636,6 +14743,30 @@
       "W7117686486"
     ],
     "norm_title": "temporal patterning of spontaneous motor activity in altricial and precocial rodent fetuses and preterm human infants a comparative study of bout organization and interlimb movement synchrony"
+  },
+  {
+    "id": "W2377614081",
+    "title": "Mammals of Europe",
+    "authors": "Gábor R. Rácz",
+    "year": 2003,
+    "journal": "Journal of Mammalogy",
+    "topics": [
+      "Reproduction",
+      "Ecology & Field Biology"
+    ],
+    "abstract": "Having great respect for my old mammalian field guide (Corbet and Ovenden 1980), I took Mammals of Europe in hand with high expectations. Also, following recent comprehensive works on European mammals (Niethammer and Krapp 1978–2001; Mitchell-Jones et al. 1999), the time seemed ripe for more detailed information to be incorporated into field guides for the general public. To my satisfaction, the authors were able to upgrade the book's quality in many novel ways. This field guide describes the mammals of Europe in a most colorful way, both visually and literally. The color figures are some of the most vivid I have seen in a field guide. Although expanded species descriptions fill the field guide, the language remains enjoyable and easy to follow. In general, the appearance of the book is more appealing than previously published field guides. Besides some minor shortcomings that are common characteristics for any lst-edition books, Mammals of Europe is superior when judged against the present selection of field guides. The general appearance and organization of the book is similar to other field guides. The book includes 64 color plates and detailed descriptions of 201 European mammal species with distribution maps. Navigation is facilitated by the index at the end and the table of contents in the beginning of the guide. The guide starts with an 8-page chapter on the navigation and organization of the book. This book lacks the general introduction found in its predecessor (Corbet and Ovenden 1980); I especially missed the overview map of the major biomes in Europe, as this helped to explain the distribution of many mammalian species. The use of the guide is also supported by a glossary of biological terms used in the book and a bibliography. Each order is introduced by a 1- or 2-page description, including a summary of ordinal characteristics. The color plates are bound in the middle of the book, and the book opens easily and directly to these drawings. Color figures (at times exceeding the quality of photographs) are positioned on the right-hand side of the facing pages, whereas the left-hand side contains short descriptions of notable characteristics. Animal portraits are arranged based on taxonomic relationship as well as external similarities. Thus, the striped field mouse (Apodemus agrarius) shares the page with the similar but taxonomically distant birch mice (Sicista betulina and S. subtilis). Images are larger than those in previous field guides, and generally, no more than 3 or 4 species are depicted on each page. Black-and-white-penciled backgrounds supplement the color figures, depicting typical habitat of a given species. Additional pencil drawings illustrate skulls, droppings, typical tracks, and signs of the animals, although skull drawings are small and hence low on details. For rodents, these drawings can help to identify individuals at the genus level, but in many instances no species-level identification can be made. “Dead space” beneath the concise species descriptions often is filled with diagrams depicting 1 of the species in a more life-like position. The text for each species includes name (alternative common names and explanation of the Latin name), conservation status, characteristics, habitat, habits, breeding properties, measurements, and general information. Rapid navigation is facilitated with small ink drawings: the description of each species starts with a small black-and-white picture of the animal. Although the distribution maps were updated and reflect changes from those in Mitchell-Jones et al. (1999), they are printed in black and white and are rather small. This is particularly problematic for species with limited distributions; for example, the range of the spiny mouse (Acomys minous) is sufficiently small (Crete and possibly Cyprus) that the map is entirely uninformative. Additionally, maps are not inserted into the species description; rather, they are placed in pairs, either on the top or at the bottom of the pages. Therefore, the connection between the maps and the species' descriptions is weak; sometimes, the distribution map of a given species is located somewhere in the following pages. Overall, the authors of the book have done a splendid job. Although I was less satisfied with the editorial work, I hope that these minor errors will be corrected in the next print of the book. In spite of these concerns, this book provides the most attractive and accessible summary of the mammals of Europe and will be highly useful to professionals and amateurs alike.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1644/1545-1542(2003)084<1124:moe>2.0.co;2",
+      "pdf": "https://academic.oup.com/jmammal/article-pdf/84/3/1124/7023694/84-3-1124.pdf",
+      "landing_page": "https://doi.org/10.1644/1545-1542(2003)084<1124:moe>2.0.co;2"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W4392456500",
+      "W4224257092",
+      "W4298182288"
+    ]
   },
   {
     "id": "W1472524059",
