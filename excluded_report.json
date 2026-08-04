@@ -220,7 +220,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.kgedej",
+  "doi": "10.15468/dl.s9w22a",
   "reason": "GBIF occurrence download"
  },
  {
@@ -228,7 +228,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.s9w22a",
+  "doi": "10.15468/dl.kgedej",
   "reason": "GBIF occurrence download"
  },
  {
@@ -292,7 +292,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.9y78wb",
+  "doi": "10.15468/dl.37hefq",
   "reason": "GBIF occurrence download"
  },
  {
@@ -308,7 +308,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.37hefq",
+  "doi": "10.15468/dl.9y78wb",
   "reason": "GBIF occurrence download"
  },
  {
@@ -556,7 +556,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.en6tav",
+  "doi": "10.15468/dl.9zurmw",
   "reason": "GBIF occurrence download"
  },
  {
@@ -564,7 +564,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.9zurmw",
+  "doi": "10.15468/dl.en6tav",
   "reason": "GBIF occurrence download"
  },
  {
@@ -644,6 +644,14 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.xe25yq",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.k6ksf7",
   "reason": "GBIF occurrence download"
  },
@@ -660,7 +668,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.xe25yq",
+  "doi": "10.15468/dl.tv3ht5",
   "reason": "GBIF occurrence download"
  },
  {
@@ -668,7 +676,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.tv3ht5",
+  "doi": "10.15468/dl.bq677p",
   "reason": "GBIF occurrence download"
  },
  {
@@ -685,14 +693,6 @@
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.dsy6w8",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.bq677p",
   "reason": "GBIF occurrence download"
  },
  {
@@ -900,7 +900,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.xt65nk",
+  "doi": "10.15468/dl.fqsuph",
   "reason": "GBIF occurrence download"
  },
  {
@@ -908,7 +908,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.fqsuph",
+  "doi": "10.15468/dl.xt65nk",
   "reason": "GBIF occurrence download"
  },
  {
@@ -972,14 +972,6 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.ssjvcc",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.8y8tz5",
   "reason": "GBIF occurrence download"
  },
@@ -989,6 +981,14 @@
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.2bxuu8",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.ssjvcc",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1100,7 +1100,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.97x4b3",
+  "doi": "10.15468/dl.t23pgr",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1108,7 +1108,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.t23pgr",
+  "doi": "10.15468/dl.97x4b3",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1256,14 +1256,6 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "Connective Tissue Growth Factor Localization in Vascular and Avascular Retinas of some Vertebrate Species",
-  "authors": "Bassam A. Alahmadi, Amin A. Seleem, Abeer Anwer Ahmed, Ahmed Said",
-  "year": 2025,
-  "journal": "International Journal of Morphology",
-  "doi": "10.4067/s0717-95022025000200583",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "Diversity of Small Mammals in Mikumi and Udzungwa Mountains National Parks, Tanzania",
   "authors": "Flora J. Magige, Shadia I. Kilwanila, John Bukombe, Wilfred N. Malleale, Christopher Sabuni",
   "year": 2025,
@@ -1272,35 +1264,11 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "Ear pinna growth and differentiation is conserved in murids and requires BMP signaling for chondrocyte proliferation",
-  "authors": "Robyn S. Allen, Shishir Biswas, Ashley W. Seifert",
-  "year": 2025,
-  "journal": "Development",
-  "doi": "10.1242/dev.204560",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "Fibroblast culture from rodent/lagomorph ear v1",
   "authors": "Ashley W. Seifert, Ebenezer Aryee, Ajoy Aloysius",
   "year": 2025,
   "journal": "",
   "doi": "10.17504/protocols.io.yxmvmb3kog3p/v1",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
-  "title": "Immunohistochemical localization of glial fibrillary acidic protein in the retinas of some amphibian, reptilian, birds, and mammals species",
-  "authors": "Amin A. Seleem",
-  "year": 2025,
-  "journal": "Journal of Histotechnology",
-  "doi": "10.1080/01478885.2025.2582277",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
-  "title": "Mammalian Models of Adult Tissue Regeneration",
-  "authors": "Kuo Liao, Yigit Koray Babal, Sebastian A. Lewandowski",
-  "year": 2025,
-  "journal": "Annual Review of Animal Biosciences",
-  "doi": "10.1146/annurev-animal-030424-071428",
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
@@ -1437,14 +1405,6 @@
   "year": 2025,
   "journal": "African Journal of Ecology",
   "doi": "10.1111/aje.70073",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
-  "title": "The quest for the perfect healing of human skin wounds: Promising models",
-  "authors": "Ilaria Dal Prà, Anna Chiarini, Daniele De Santis, Riccardo Nocini, Shusen Chang, Ubaldo Armato",
-  "year": 2025,
-  "journal": "Regenesis repair rehabilitation.",
-  "doi": "10.1016/j.rerere.2025.03.003",
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
@@ -1656,14 +1616,6 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "Neural crest cells give rise to non-myogenic mesenchymal tissue in the adult murid ear pinna",
-  "authors": "Robyn S. Allen, Shishir Biswas, Ashley W. Seifert",
-  "year": 2023,
-  "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-  "doi": "10.1101/2023.08.06.552195",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "New species of the Spiny Mouse genus Neacomys (Cricetidae, Sigmodontinae) from northwestern Ecuador",
   "authors": "Nicolás Tinoco, Claudia Koch, Javier E. Colmenares-Pinzón, Francisco X. Castellanos, Jorge Brito",
   "year": 2023,
@@ -1764,7 +1716,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.jq82gn",
+  "doi": "10.15468/dl.btszwk",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1772,7 +1724,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.btszwk",
+  "doi": "10.15468/dl.jq82gn",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1844,7 +1796,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.9ny69h",
+  "doi": "10.15468/dl.faw7vm",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1852,7 +1804,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.faw7vm",
+  "doi": "10.15468/dl.9ny69h",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1948,7 +1900,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.aq7a8h",
+  "doi": "10.15468/dl.9z7krh",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1956,7 +1908,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.9z7krh",
+  "doi": "10.15468/dl.aq7a8h",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2112,14 +2064,6 @@
   "reason": "data repository (figshare/zenodo)"
  },
  {
-  "title": "Mechanisms of Scarless Repair at Time of Menstruation: Insights From Mouse Models",
-  "authors": "Phoebe M. Kirkwood, Isaac Shaw, Philippa T. K. Saunders",
-  "year": 2022,
-  "journal": "Frontiers in Reproductive Health",
-  "doi": "10.3389/frph.2021.801843",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "Mend the gap",
   "authors": "Siân Lewis",
   "year": 2022,
@@ -2141,14 +2085,6 @@
   "year": 2022,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.2fstbe",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2022,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.4df9xv",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2180,7 +2116,7 @@
   "authors": "GBIF.Org User",
   "year": 2022,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.hzmfkz",
+  "doi": "10.15468/dl.4df9xv",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2188,7 +2124,7 @@
   "authors": "GBIF.Org User",
   "year": 2022,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.62xwzb",
+  "doi": "10.15468/dl.hzmfkz",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2212,6 +2148,22 @@
   "authors": "GBIF.Org User",
   "year": 2022,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.62xwzb",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2022,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.2gy7xz",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2022,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.g2ch53",
   "reason": "GBIF occurrence download"
  },
@@ -2221,14 +2173,6 @@
   "year": 2022,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.e5xuhh",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2022,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.2gy7xz",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2334,14 +2278,6 @@
   "journal": "Mastozoología neotropical",
   "doi": "10.31687/saremmn.21.28.1.0.23",
   "reason": "neacomys (different genus)"
- },
- {
-  "title": "Fibroblasts feel evolutionary pressure to regenerate",
-  "authors": "Renzhi Hou, A. A. Astrowski, Maksim V. Plikus",
-  "year": 2021,
-  "journal": "Developmental Cell",
-  "doi": "10.1016/j.devcel.2021.09.019",
-  "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
   "title": "Molecular detection and genetic characterization of coxiella burnetii and bartonella spp infections in small mammals from Moshi, Northern Tanzania",
@@ -2460,14 +2396,6 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.g84tvd",
-  "reason": "neacomys (different genus)"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2021,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.2upsby",
   "reason": "GBIF occurrence download"
  },
@@ -2476,8 +2404,8 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.hrwept",
-  "reason": "GBIF occurrence download"
+  "doi": "10.15468/dl.g84tvd",
+  "reason": "neacomys (different genus)"
  },
  {
   "title": "Occurrence Download",
@@ -2485,6 +2413,14 @@
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.7r8zqn",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2021,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.hrwept",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2620,14 +2556,6 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.6m7prk",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2021,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.9bghkz",
   "reason": "GBIF occurrence download"
  },
@@ -2637,6 +2565,14 @@
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.a2v5mt",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2021,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.6m7prk",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2670,14 +2606,6 @@
   "journal": "Systematics and Biodiversity",
   "doi": "10.1080/14772000.2021.1980449",
   "reason": "neacomys (different genus)"
- },
- {
-  "title": "Complex Tissue Regeneration in Mammals Is Associated With Reduced Inflammatory Cytokines and an Influx of T Cells",
-  "authors": "Thomas R. Gawriluk, Jennifer Simkin, Corin K. Hacker, John M. Kimani, Stephen G. Kiama, Vanessa O. Ezenwa, Ashley W. Seifert",
-  "year": 2020,
-  "journal": "Frontiers in Immunology",
-  "doi": "10.3389/fimmu.2020.01695",
-  "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
   "title": "Early birds, late owls, and the ecological role of intra-population chronotype variation",
@@ -3020,14 +2948,6 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.iq236k",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.5aoeu3",
   "reason": "GBIF occurrence download"
  },
@@ -3037,6 +2957,14 @@
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.9e8zc1",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.iq236k",
   "reason": "GBIF occurrence download"
  },
  {
@@ -3100,22 +3028,6 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.cfqaua",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.fwtnlf",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.bfojdi",
   "reason": "GBIF occurrence download"
  },
@@ -3140,7 +3052,15 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.jhmx66",
+  "doi": "10.15468/dl.cfqaua",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.fwtnlf",
   "reason": "GBIF occurrence download"
  },
  {
@@ -3156,7 +3076,7 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.ceevcl",
+  "doi": "10.15468/dl.jhmx66",
   "reason": "GBIF occurrence download"
  },
  {
@@ -3164,7 +3084,7 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.domkzv",
+  "doi": "10.15468/dl.ceevcl",
   "reason": "GBIF occurrence download"
  },
  {
@@ -3181,6 +3101,14 @@
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.9aqfjq",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.domkzv",
   "reason": "GBIF occurrence download"
  },
  {
@@ -3238,14 +3166,6 @@
   "journal": "Figshare",
   "doi": "10.5281/zenodo.1188364",
   "reason": "data repository (figshare/zenodo)"
- },
- {
-  "title": "Animal Models of Skin Regeneration",
-  "authors": "Barbara Gawrońska‐Kozak, Joanna Bukowska",
-  "year": 2017,
-  "journal": "Elsevier eBooks",
-  "doi": "10.1016/b978-0-12-809468-6.00014-0",
-  "reason": "no abstract available anywhere (unevaluatable)"
  },
  {
   "title": "Camera-trapping and seed-labelling reveals widespread granivory and scatter-hoarding of nuts by rodents in the Fynbos Biome",
@@ -3312,14 +3232,6 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "The blastema and epimorphic regeneration in mammals",
-  "authors": "Ashley W. Seifert, Ken Muneoka",
-  "year": 2017,
-  "journal": "Developmental Biology",
-  "doi": "10.1016/j.ydbio.2017.08.007",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "The response of social and non-social rodents to owl attack",
   "authors": "Chen Rabi, Pazit Zadicario, Yael Mazon, Naama Wagner, David Eilam",
   "year": 2017,
@@ -3328,27 +3240,11 @@
   "reason": "no abstract available anywhere (unevaluatable)"
  },
  {
-  "title": "The tension biology of wound healing",
-  "authors": "Hans I‐Chen Harn, Rei Ogawa, Chao‐Kai Hsu, Michael W. Hughes, Ming‐Jer Tang, Cheng‐Ming Chuong",
-  "year": 2017,
-  "journal": "Experimental Dermatology",
-  "doi": "10.1111/exd.13460",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "The unusual, closed flowers of Erica lanuginosa (Ericaceae) are adapted for rodent-pollination and not cleistogamy",
   "authors": "Giorgio Colombo Lombardi, Craig I. Peter, R. Turner, Jeremy J. Midgley",
   "year": 2017,
   "journal": "South African Journal of Botany",
   "doi": "10.1016/j.sajb.2017.03.020",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
-  "title": "Understanding the Full Spectrum of Organ Injury Following Intrapartum Asphyxia",
-  "authors": "Domenic A. LaRosa, Stacey J. Ellery, David W. Walker, Hayley Dickinson",
-  "year": 2017,
-  "journal": "Frontiers in Pediatrics",
-  "doi": "10.3389/fped.2017.00016",
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
@@ -3552,14 +3448,6 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "Molecular systematics of gerbils and deomyines (Rodentia: Gerbillinae, Deomyinae) and a test of desert adaptation in the tympanic bulla",
-  "authors": "Bader H. Alhajeri, Ondreia J. Hunt, Scott J. Steppan",
-  "year": 2015,
-  "journal": "Journal of Zoological Systematics & Evolutionary Research",
-  "doi": "10.1111/jzs.12102",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "Occurrence Download",
   "authors": "GBIF.Org User",
   "year": 2015,
@@ -3590,22 +3478,6 @@
   "journal": "Current Zoology",
   "doi": "10.1093/czoolo/61.4.781",
   "reason": "only 0 mention(s) in abstract, none in title"
- },
- {
-  "title": "Age at weaning, immunocompetence and ectoparasite performance in a precocial desert rodent",
-  "authors": "Elizabeth M. Dlugosz, Joë̈lle Goü̈y de Bellocq, Irina S. Khokhlova, A. Allan Degen, Berry Pinshow, Boris R. Krasnov",
-  "year": 2014,
-  "journal": "Journal of Experimental Biology",
-  "doi": "10.1242/jeb.106005",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
-  "title": "Animal models of skin regeneration",
-  "authors": "Barbara Gawrońska‐Kozak, Anna Grabowska, Marta Kopcewicz, Anna Kur‐Piotrowska",
-  "year": 2014,
-  "journal": "Reproductive Biology",
-  "doi": "10.1016/j.repbio.2014.01.004",
-  "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
   "title": "Lessons on Kidney Development from Experimental Studies",
@@ -3765,14 +3637,6 @@
   "year": 2011,
   "journal": "Zoosystema",
   "doi": "10.5252/z2011n1a1",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
-  "title": "Comparing adult hippocampal neurogenesis in mammalian species and orders: influence of chronological age and life history stage",
-  "authors": "Irmgard Amrein, Karin Isler, Hans‐Peter Lipp",
-  "year": 2011,
-  "journal": "European Journal of Neuroscience",
-  "doi": "10.1111/j.1460-9568.2011.07804.x",
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
@@ -3992,22 +3856,6 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "Foraging behaviour of two rodent species inhabiting a kopje (rocky outcrop) in Tsavo West National Park, Kenya",
-  "authors": "Benjamin G. Fanson, Kerry V. Fanson, Joel S. Brown",
-  "year": 2008,
-  "journal": "African Zoology",
-  "doi": "10.3377/1562-7020-43.2.184",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
-  "title": "Foraging behaviour of two rodent species inhabiting a kopje (rocky outcrop) in Tsavo West National Park, Kenya",
-  "authors": "Benjamin G. Fanson, Kerry V. Fanson, Joel S. Brown",
-  "year": 2008,
-  "journal": "African Zoology",
-  "doi": "10.1080/15627020.2008.11657235",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "Taxonomical studies of ticks infesting wild rodents from Asir Province in Saudi Arabia.",
   "authors": "Hamdan I Al-Mohammed",
   "year": 2008,
@@ -4184,14 +4032,6 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "The Cerebellum at Birth in Therian Mammals, with Special Reference to Rodents",
-  "authors": "Marcelo R. Sánchez‐Villagra, Fahad Sultan",
-  "year": 2002,
-  "journal": "Brain Behavior and Evolution",
-  "doi": "10.1159/000064158",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "Vertebrate regeneration",
   "authors": "David L. Stocum",
   "year": 2002,
@@ -4256,14 +4096,6 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "Wheel-Running Activity Patterns of Five Species of Desert Rodents",
-  "authors": "Gregory E. Demas, Hanan A. El-Bakry, Eric Mintz, Wafaa M. Zarhan, Timothy J. Bartness",
-  "year": 2001,
-  "journal": "Biological Rhythm Research",
-  "doi": "10.1076/brhm.32.1.1.7287",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "Environmental determinants of the composition of desert-living rodent communities in the north-east Badia region of Jordan",
   "authors": "Dawn M. Scott, Nigel Dunstone",
   "year": 2000,
@@ -4277,14 +4109,6 @@
   "year": 2000,
   "journal": "Journal of Zoology",
   "doi": "10.1111/j.1469-7998.2000.tb00804.x",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
-  "title": "Molecular Phylogeny of European Muroid Rodents Based on Complete Cytochrome b Sequences",
-  "authors": "Y. E. Martin, Gabriele Gerlach, Christian Schlötterer, Axel Meyer",
-  "year": 2000,
-  "journal": "Molecular Phylogenetics and Evolution",
-  "doi": "10.1006/mpev.1999.0760",
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
@@ -4768,14 +4592,6 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "Development of olfactory bulb organization in precocial and altricial rodents",
-  "authors": "Michael Leon, Robert Coopersmith, Catherine Ulibarri, Richard H. Porter, J.Bradley Powers",
-  "year": 1984,
-  "journal": "Developmental Brain Research",
-  "doi": "10.1016/0165-3806(84)90175-5",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "Studies of <i>Angiostrongylus cantonensis</i> in two experimental hosts",
   "authors": "Kikue Uchida, Kentaro Yoshimura, Keiko Sato, Tosihide H. YOSIDA",
   "year": 1984,
@@ -4872,27 +4688,11 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "Body Growth in Sixteen Rodent Species and Subspecies Maintained in Laboratory Colonies",
-  "authors": "Peter Morrison, R. A. Dieterich, Diane Preston",
-  "year": 1977,
-  "journal": "Physiological Zoology",
-  "doi": "10.1086/physzool.50.4.30155733",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "The comparative fine structure of the interhemal membrane of chorioallantoic placentas from six genera of myomorph rodents",
   "authors": "Barry F. King, Richard A. Hastings",
   "year": 1977,
   "journal": "American Journal of Anatomy",
   "doi": "10.1002/aja.1001490204",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
-  "title": "ZINC AND MANGANESE CONTENTS OF MICRO-DISSECTED PANCREATIC ISLETS OF SOME RODENTS",
-  "authors": "Niilo Havu, Gillis Lundgren, Sture Falkmer",
-  "year": 1977,
-  "journal": "European Journal of Endocrinology",
-  "doi": "10.1530/acta.0.0860570",
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
@@ -4902,14 +4702,6 @@
   "journal": "PubMed",
   "doi": "",
   "reason": "no abstract available anywhere (unevaluatable)"
- },
- {
-  "title": "BASIC HAEMATOLOGIC DATA ON THE EGYPTIAN RODENTS",
-  "authors": "M. S. Arafa, A. M. Salit, T.Y. Helal, Ahmed Abdelwahab",
-  "year": 1976,
-  "journal": "Assiut Veterinary Medical Journal/Maǧallaẗ Asyūṭ al-ṭibiyyaẗ al-baytariyyaẗ",
-  "doi": "10.21608/avmj.1976.193432",
-  "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
   "title": "Breeding and reproduction of fifteen wild rodents maintained as laboratory colonies.",

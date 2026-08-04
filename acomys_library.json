@@ -1316,6 +1316,35 @@
     "redistributable": false
   },
   {
+    "id": "W4416118476",
+    "title": "Mammalian Models of Adult Tissue Regeneration",
+    "authors": "Kuo Liao, Yigit Koray Babal, Sebastian A. Lewandowski",
+    "year": 2025,
+    "publication_date": "2025-11-11",
+    "oa_status": "hybrid",
+    "license": "cc-by",
+    "redistributable": true,
+    "journal": "Annual Review of Animal Biosciences",
+    "topics": [
+      "Immunology & Infection",
+      "General Regeneration & Wound Healing",
+      "Tissue: Skin & Hair"
+    ],
+    "abstract": "Adult tissue regeneration is a rare phenomenon in mammals. Most mammals heal tissue through scarring, which quickly seals the wound and helps prevent blood loss and infection, but this comes at the cost of poor tissue regeneration. Regeneration is typically studied in worms, amphibians, or fish, which gives insights into the biology of respective species but provides limited translation for human therapies. However, several mammals develop adaptations, typically favored by natural selection pressures, to regenerate a specialized tissue (e.g., antlers in deer or skin in bats) or a systemically reduced scar formation that allows multiple tissues to restore their function (e.g., African spiny mice). In this review, we aim to summarize the examples of mammals that regenerate tissues and discuss potential cellular mechanisms that allow their regeneration. The future studies of these exceptional mammals can allow for a greater understanding of mammalian complexity and provide insights for future therapies.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1146/annurev-animal-030424-071428",
+      "pdf": "https://doi.org/10.1146/annurev-animal-030424-071428",
+      "landing_page": "https://doi.org/10.1146/annurev-animal-030424-071428"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7171221649",
+      "W7168267472"
+    ]
+  },
+  {
     "id": "W4416041129",
     "title": "Parkinson’s disease modeling in regenerative spiny mice ( <i>Acomys dimidiatus</i> ) captures key disease-relevant behavioral, histological, and molecular signatures",
     "authors": "Sayan Dutta, Marion Pang, Renée R. Donahue, Tsui‐Fen Chou, Ashley W. Seifert, Viviana Gradinaru",
@@ -1344,6 +1373,38 @@
     "oa_status": "green",
     "license": "cc-by",
     "redistributable": true
+  },
+  {
+    "id": "W4415815582",
+    "title": "Immunohistochemical localization of glial fibrillary acidic protein in the retinas of some amphibian, reptilian, birds, and mammals species",
+    "authors": "Amin A. Seleem",
+    "year": 2025,
+    "publication_date": "2025-11-03",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "Journal of Histotechnology",
+    "topics": [
+      "Ecology & Field Biology",
+      "Tools & Techniques",
+      "Tissue: Nervous System",
+      "General Regeneration & Wound Healing",
+      "Tissue: Retina & Visual System",
+      "Immunology & Infection"
+    ],
+    "abstract": "Glial fibrillary acidic protein (GFAP) immunohistochemistry staining is specific to glial cell intermediate filaments. GFAP has been reported in some diseases related to injury of central nervous system. The actual normal biological function of GFAP in the retinas of some vertebrates is still under investigation. The current study examines the distribution of GFAP in the retinas of various species of amphibian, reptilian, birds, and mammals by immunohistochemical technique. The results indicated that GFAP localization in the retina is related to specific species. Unique, homogeneous GFAP labelling was observed in Chalcides ocellatus retina, which was different from other studied reptiles (Trachemys scripta elegans, Uromastyx aegyptius, Ptyodactylus hasselquistii, Acanthodactylus boskianus, Scincus mitranus). Low GFAP labelling was noted in the retinas of birds and some species of the studied mammals (Jaculus jaculus, Rousettus egyptiacus, and Mesocricetus auratus). However, other studied mammals (Mus musculus, Acomys russatus, Paraechinus aethiopicus) showed different intensities of GFAP expression. The study finds that GFAP helps to clarify the potential function of Müller cells in the regeneration process in different species.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1080/01478885.2025.2582277",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1080/01478885.2025.2582277"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7171221649",
+      "W7170041377"
+    ]
   },
   {
     "id": "W4415243113",
@@ -2080,6 +2141,58 @@
     "redistributable": true
   },
   {
+    "id": "W4409283945",
+    "title": "The quest for the perfect healing of human skin wounds: Promising models",
+    "authors": "Ilaria Dal Prà, Anna Chiarini, Daniele De Santis, Riccardo Nocini, Shusen Chang, Ubaldo Armato",
+    "year": 2025,
+    "publication_date": "2025-04-01",
+    "oa_status": "diamond",
+    "license": "cc-by",
+    "redistributable": true,
+    "journal": "Regenesis repair rehabilitation.",
+    "topics": [
+      "General Regeneration & Wound Healing",
+      "Tissue: Skin & Hair",
+      "Development"
+    ],
+    "abstract": "Human skin is a compound organ performing essential functions in direct environmental contact. An orchestrated set of complex biological processes sustained by intricate molecular interactions leads to skin wound healing. Only superficial (epidermal) lesions heal perfectly (i.e., without scars). Intermediate or deep and extended skin (burn) wounds prevent the status quo ante restoration , resulting in hypertrophic/retracting scars or keloids, often entailing ugly sequels. Thus, a quest, punctuated by innumerable approaches, has been and is on to achieve a (nearly) perfect healing. This work focuses on various models, such as the Mexican axolotl and the spiny mouse, two distinct types of pig split-skin dressings, and acellular 3D silk fibroin nonwoven scaffold implants, in which examples of perfect skin regenesis/regeneration occurred. It also discusses novel reconstituted acellular biomaterial scaffolds, including dermal matrisome components because of their skin regeneration-promoting qualities. An analysis of the available evidence shows that the matrisome components of the dermis and hypodermis in specific embryo, fetal, and newborn vertebrates contribute to perfect skin wound healing. Some of these components have yet to be identified. It is mandatory to clarify the specific role(s) of each matrisomal constituent cooperating in the wound repair mechanisms. These studies will advance the development of novel therapeutic strategies promoting scar-free or so skin wound healing, thus restoring the original morpho-functional characteristics.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1016/j.rerere.2025.03.003",
+      "pdf": "https://doi.org/10.1016/j.rerere.2025.03.003",
+      "landing_page": "https://doi.org/10.1016/j.rerere.2025.03.003"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7171221649",
+      "W7159926740"
+    ]
+  },
+  {
+    "id": "W4410388906",
+    "title": "Connective Tissue Growth Factor Localization in Vascular and Avascular Retinas of some Vertebrate Species",
+    "authors": "Bassam A. Alahmadi, Amin A. Seleem, Abeer Anwer Ahmed, Ahmed Said",
+    "year": 2025,
+    "publication_date": "2025-04-01",
+    "oa_status": "diamond",
+    "license": "cc-by-nc",
+    "redistributable": true,
+    "journal": "International Journal of Morphology",
+    "topics": [
+      "Immunology & Infection"
+    ],
+    "abstract": "The connective tissue growth factor (CTGF/CCN2) is engaged in structural retinal vascular changes and in the retina's vascular beds.CTGF immunohistochemical expression was done in the vascular and avascular retinas of mammals, birds, and reptilians.The results indicated CTGF immunostaining was detected in the intraretinal blood vessels of the studied mammalian vascular retina (Balb/C, Acomys russatus, Mesocricetus auratus), while CTGF expression was absent in intraretinal blood vessels and was detected in choriocapillaris of the avascular mammalian retina (Rousettus egyptiacus, Jaculus jaculus, Paraechinus aethiopicus).The avascular retinas of studied avian species (Falco tinnunculus, Columba livia, Merops superciliosus, Ammoperdix heyi) exhibited negative immunostaining of CTGF in retinal layers.The avascular retinas of studied reptilian species (Ptyodactylus hasselquistii and Chalcides ocellatus, Uromastyx aegyptius) showed a strong CTGF expression level in some layers of retina but other reptilian species retinas (Acanthodactylus boskianus, Trachemys scripta elegans, Scincus mitranus) showed negative CTGF localization.The study concluded that CTGF/CCN2 signalling is involved in the intraretinal blood vessels of the vascular retina and was not included in avascular retinas except in some species of reptiles, which need more study.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.4067/s0717-95022025000200583",
+      "pdf": "http://www.scielo.cl/pdf/ijmorphol/v43n2/0717-9502-ijmorphol-43-02-583.pdf",
+      "landing_page": "https://doi.org/10.4067/s0717-95022025000200583"
+    },
+    "is_abstract_only": false,
+    "related_articles": []
+  },
+  {
     "id": "W4408839151",
     "title": "ERGA-BGE genome of Acomys minous (Bate, 1906): the Crete spiny mouse, endemic to the island of Crete, Greece",
     "authors": "Petros Lymberakis, Danae Karakasi, Manolis Papadimitrakis, Rita Monteiro, Astrid Böhne, Rosa Fernández, Nuria Escudero, Jean-Marc Aury, Alice Moussy, Corinne Cruaud, Karine Labadie, Sophie Mangenot, Caroline Belser, Lola Demirdjian, Swati Sinha, Leanne Haggerty, Fergal J. Martin, Patrick Wincker, Pedro H. Oliveira, Tom Brown",
@@ -2249,6 +2362,36 @@
     "oa_status": "closed",
     "license": null,
     "redistributable": false
+  },
+  {
+    "id": "W4406737043",
+    "title": "Ear pinna growth and differentiation is conserved in murids and requires BMP signaling for chondrocyte proliferation",
+    "authors": "Robyn S. Allen, Shishir Biswas, Ashley W. Seifert",
+    "year": 2025,
+    "publication_date": "2025-01-23",
+    "oa_status": "hybrid",
+    "license": "cc-by",
+    "redistributable": true,
+    "journal": "Development",
+    "topics": [
+      "Cell & Molecular Biology",
+      "General Regeneration & Wound Healing",
+      "Tissue: Ear / Pinna",
+      "Development"
+    ],
+    "abstract": "Despite being a major target of reconstructive surgery, development of the ear pinna remains poorly studied. Here, we provide a cellular characterization of late gestational and postnatal ear pinna development in two rodents and investigate the role of BMP5 in expansion and differentiation of auricular elastic cartilage. We find that ear pinna development is largely conserved between Mus musculus and the highly regenerative Acomys dimidiatus. The pattern of pre-cartilaginous cells is established early in development. These cells are specified into chondroblasts before ear unfolding and then undergo extensive proliferation before maturation. The elastic cartilage, connective tissue fibroblasts, dermal papilla and sheath cells, and adipocytes in the adult pinna are derived from cranial neural crest. Cellular analysis using the naturally occurring short ear mouse mutant shows that loss of BMP5 does not prevent specification of chondroblasts, but does impair chondroblast proliferation. Finally, chondroblast proliferation remains impaired in the adult mid-distal ear pinna of these mutants. Together, these data establish the developmental basis for differentiation of ear pinna tissues.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1242/dev.204560",
+      "pdf": "https://journals.biologists.com/dev/article-pdf/doi/10.1242/dev.204560/3615416/dev204560.pdf",
+      "landing_page": "https://doi.org/10.1242/dev.204560"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171378091",
+      "W7171221649",
+      "W7170041377"
+    ]
   },
   {
     "id": "W4406322059",
@@ -3525,6 +3668,38 @@
     "oa_status": "gold",
     "license": "cc-by",
     "redistributable": true
+  },
+  {
+    "id": "W4385622078",
+    "title": "Neural crest cells give rise to non-myogenic mesenchymal tissue in the adult murid ear pinna",
+    "authors": "Robyn S. Allen, Shishir Biswas, Ashley W. Seifert",
+    "year": 2023,
+    "publication_date": "2023-08-07",
+    "oa_status": "green",
+    "license": "cc-by-nc-nd",
+    "redistributable": true,
+    "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "topics": [
+      "Cell & Molecular Biology",
+      "General Regeneration & Wound Healing",
+      "Development",
+      "Tissue: Musculoskeletal",
+      "Tissue: Ear / Pinna",
+      "Tissue: Skin & Hair"
+    ],
+    "abstract": "ABSTRACT Despite being a major target of reconstructive surgery, development of the external ear pinna remains poorly studied. As a craniofacial organ highly accessible to manipulation and highly conserved among mammals, the ear pinna represents a valuable model for the study of appendage development and wound healing in the craniofacial complex. Here we provide a cellular characterization of late gestational and postnatal ear pinna development in Mus musculus and Acomys cahirinus and demonstrate that ear pinna development is largely conserved between these species. Using Wnt1-cre;ROSA mT/mG mice we find that connective tissue fibroblasts, elastic cartilage, dermal papilla cells, dermal sheath cells, vasculature, and adipocytes in the adult pinna are derived from cranial crest. In contrast, we find that skeletal muscle and hair follicles are not derived from neural crest cells. Cellular analysis using the naturally occurring short ear mouse mutant shows that elastic cartilage does not develop properly in distal pinna due to impaired chondroprogenitor proliferation. Interestingly, while chondroprogenitors develop in a mostly continuous sheet, the boundaries of cartilage loss in the short ear mutant strongly correlate with locations of vasculature-conveying foramen. Concomitant with loss of elastic cartilage we report increased numbers of adipocytes, but this seems to be a state acquired in adulthood rather than a developmental abnormality. In addition, chondrogenesis remains impaired in the adult mid-distal ear pinna of these mutants. Together these data establish a developmental basis for the study of the ear pinna with intriguing insights into the development of elastic cartilage.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1101/2023.08.06.552195",
+      "pdf": "https://www.biorxiv.org/content/biorxiv/early/2023/08/07/2023.08.06.552195.full.pdf",
+      "landing_page": "http://dx.doi.org/10.1101/2023.08.06.552195"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7171378091",
+      "W7171221649"
+    ]
   },
   {
     "id": "W4386860841",
@@ -4853,6 +5028,38 @@
     "redistributable": true
   },
   {
+    "id": "W4206395080",
+    "title": "Mechanisms of Scarless Repair at Time of Menstruation: Insights From Mouse Models",
+    "authors": "Phoebe M. Kirkwood, Isaac Shaw, Philippa T. K. Saunders",
+    "year": 2022,
+    "publication_date": "2022-01-06",
+    "oa_status": "gold",
+    "license": "cc-by",
+    "redistributable": true,
+    "journal": "Frontiers in Reproductive Health",
+    "topics": [
+      "Cell & Molecular Biology",
+      "Reproduction",
+      "General Regeneration & Wound Healing",
+      "Metabolism, Endocrinology & Physiology",
+      "Immunology & Infection",
+      "Tissue: Skin & Hair"
+    ],
+    "abstract": "The human endometrium is a remarkable tissue which may experience up to 400 cycles of hormone-driven proliferation, differentiation and breakdown during a woman's reproductive lifetime. During menstruation, when the luminal portion of tissue breaks down, it resembles a bloody wound with piecemeal shedding, exposure of underlying stroma and a strong inflammatory reaction. In the absence of pathology within a few days the integrity of the tissue is restored without formation of a scar and the endometrium is able to respond appropriately to subsequent endocrine signals in preparation for establishment of pregnancy if fertilization occurs. Understanding mechanisms regulating scarless repair of the endometrium is important both for design of therapies which can treat conditions where this is aberrant (heavy menstrual bleeding, fibroids, endometriosis, Asherman's syndrome) as well as to provide new information that might allow us to reduce fibrosis and scar formation in other tissues. Menstruation only occurs naturally in species that exhibit spontaneous stromal cell decidualization during the fertile cycle such as primates (including women) and the Spiny mouse. To take advantage of genetic models and detailed time course analysis, mouse models of endometrial shedding/repair involving hormonal manipulation, artificial induction of decidualization and hormone withdrawal have been developed and refined. These models are useful in modeling dynamic changes across the time course of repair and have recapitulated key features of endometrial repair in women including local hypoxia and immune cell recruitment. In this review we will consider the evidence that scarless repair of endometrial tissue involves changes in stromal cell function including mesenchyme to epithelial transition, epithelial cell proliferation and multiple populations of immune cells. Processes contributing to endometrial fibrosis (Asherman's syndrome) as well as scarless repair of other tissues including skin and oral mucosa are compared to that of menstrual repair.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.3389/frph.2021.801843",
+      "pdf": "https://www.frontiersin.org/articles/10.3389/frph.2021.801843/pdf",
+      "landing_page": "https://doi.org/10.3389/frph.2021.801843"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7171378091",
+      "W7171221649"
+    ]
+  },
+  {
     "id": "W4205596649",
     "title": "Rewired glycosylation activity promotes scarless regeneration and functional recovery in spiny mice after complete spinal cord transection",
     "authors": "Joana Nogueira‐Rodrigues, Sérgio Carvalho Leite, Rita Pinto‐Costa, Sara Sousa, Liliana L. Luz, Maria A. Sintra, Raquel Oliveira, Ana C. Monteiro, Gonçalo G. Pinheiro, Marta Vitorino, Joana A. Silva, Sónia Simão, Vitor E. Fernandes, Jan Provazník, Vladimı́r Beneš, Célia Duarte Cruz, Boris V. Safronov, Ana Magalhães, Celso A. Reis, Jorge Vieira, Cristina P. Vieira, Gustavo Tiscórnia, Inês M. Araújo, Mónica Mendes Sousa",
@@ -5333,6 +5540,34 @@
     "oa_status": "green",
     "license": null,
     "redistributable": false
+  },
+  {
+    "id": "W3207156631",
+    "title": "Fibroblasts feel evolutionary pressure to regenerate",
+    "authors": "Renzhi Hou, A. A. Astrowski, Maksim V. Plikus",
+    "year": 2021,
+    "publication_date": "2021-10-01",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "Developmental Cell",
+    "topics": [
+      "Cell & Molecular Biology",
+      "General Regeneration & Wound Healing"
+    ],
+    "abstract": "Wounds in mammals commonly heal by scarring but retain latent capacity to regenerate. In this issue of Developmental Cell, Brewer, Nelson et&#xa0;al. reveal that heightened ability of spiny mice to regenerate after injury is attributed to molecular changes in the Hippo-YAP (yes-associated protein) pathway that protect wound fibroblasts from a persistent contractile state.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1016/j.devcel.2021.09.019",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1016/j.devcel.2021.09.019"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171378091",
+      "W7170041377",
+      "W7168265330"
+    ]
   },
   {
     "id": "W3213151253",
@@ -6294,6 +6529,35 @@
     "oa_status": "bronze",
     "license": null,
     "redistributable": false
+  },
+  {
+    "id": "W3048054161",
+    "title": "Complex Tissue Regeneration in Mammals Is Associated With Reduced Inflammatory Cytokines and an Influx of T Cells",
+    "authors": "Thomas R. Gawriluk, Jennifer Simkin, Corin K. Hacker, John M. Kimani, Stephen G. Kiama, Vanessa O. Ezenwa, Ashley W. Seifert",
+    "year": 2020,
+    "publication_date": "2020-08-07",
+    "oa_status": "gold",
+    "license": "cc-by",
+    "redistributable": true,
+    "journal": "Frontiers in Immunology",
+    "topics": [
+      "Immunology & Infection",
+      "General Regeneration & Wound Healing",
+      "Ecology & Field Biology"
+    ],
+    "abstract": "While mammals tend to repair injuries, other adult vertebrates like salamanders and fish regenerate damaged tissue. One prominent hypothesis offered to explain an inability to regenerate complex tissue in mammals is a bias during healing towards strong adaptive immunity and inflammatory responses. Here we directly test this hypothesis by characterizing part of the immune response during regeneration in spiny mice (A. cahirinus and A. percivali) versus fibrotic repair in Mus musculus. By directly quantifying cytokines during tissue healing, we found that fibrotic repair was associated with a greater release of pro-inflammatory cytokines (i.e., IL-6, CCL2 and CXCL1) during acute inflammation in the wound microenvironment. However, reducing inflammation via COX-2 inhibition was not sufficient to reduce fibrosis or induce a regenerative response, suggesting that inflammatory strength does not control how an injury heals. Although regeneration was associated with lower concentrations of many inflammatory markers, we measured a comparatively larger influx of T cells into regenerating ear tissue and detected a local increase in the T-cell associated cytokines IL-12 and IL-17 during the proliferative phase of regeneration. Taken together, our data demonstrate that a strong adaptive immune response is not antagonistic to regeneration and that other mechanisms likely explain the distribution of regenerative ability in vertebrates.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.3389/fimmu.2020.01695",
+      "pdf": "https://www.frontiersin.org/articles/10.3389/fimmu.2020.01695/pdf",
+      "landing_page": "https://doi.org/10.3389/fimmu.2020.01695"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7168267472",
+      "W7163527825"
+    ]
   },
   {
     "id": "W3040855604",
@@ -8093,6 +8357,35 @@
     "redistributable": false
   },
   {
+    "id": "W2777692101",
+    "title": "The blastema and epimorphic regeneration in mammals",
+    "authors": "Ashley W. Seifert, Ken Muneoka",
+    "year": 2017,
+    "publication_date": "2017-12-25",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "Developmental Biology",
+    "topics": [
+      "General Regeneration & Wound Healing",
+      "Tissue: Ear / Pinna",
+      "Tissue: Musculoskeletal"
+    ],
+    "abstract": "Studying regeneration in animals where and when it occurs is inherently interesting and a challenging research topic within developmental biology. Historically, vertebrate regeneration has been investigated in animals that display enhanced regenerative abilities and we have learned much from studying organ regeneration in amphibians and fish. From an applied perspective, while regeneration biologists will undoubtedly continue to study poikilothermic animals (i.e., amphibians and fish), studies focused on homeotherms (i.e., mammals and birds) are also necessary to advance regeneration biology. Emerging mammalian models of epimorphic regeneration are poised to help link regenerative biology and regenerative medicine. The regenerating rodent digit tip, which parallels human fingertip regeneration, and the regeneration of large circular defects through the ear pinna in spiny mice and rabbits, provide tractable, experimental systems where complex tissue structures are regrown through blastema formation and morphogenesis. Using these models as examples, we detail similarities and differences between the mammalian blastema and its classical counterpart to arrive at a broad working definition of a vertebrate regeneration blastema. This comparison leads us to conclude that regenerative failure is not related to the availability of regeneration-competent progenitor cells, but is most likely a function of the cellular response to the microenvironment that forms following traumatic injury. Recent studies demonstrating that targeted modification of this microenvironment can restrict or enhance regenerative capabilities in mammals helps provide a roadmap for eventually pushing the limits of human regeneration.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1016/j.ydbio.2017.08.007",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1016/j.ydbio.2017.08.007"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7171221649",
+      "W7170041377"
+    ]
+  },
+  {
     "id": "W2777855185",
     "title": "Concise Review: Translating Regenerative Biology into Clinically Relevant Therapies: Are We on the Right Path?",
     "authors": "Jennifer Simkin, Ashley W. Seifert",
@@ -8178,6 +8471,36 @@
     "oa_status": "bronze",
     "license": null,
     "redistributable": false
+  },
+  {
+    "id": "W2766973801",
+    "title": "The tension biology of wound healing",
+    "authors": "Hans I‐Chen Harn, Rei Ogawa, Chao‐Kai Hsu, Michael W. Hughes, Ming‐Jer Tang, Cheng‐Ming Chuong",
+    "year": 2017,
+    "publication_date": "2017-11-04",
+    "oa_status": "bronze",
+    "license": null,
+    "redistributable": false,
+    "journal": "Experimental Dermatology",
+    "topics": [
+      "Immunology & Infection",
+      "General Regeneration & Wound Healing",
+      "Tissue: Skin & Hair",
+      "Development"
+    ],
+    "abstract": "Following skin wounding, the healing outcome can be: regeneration, repair with normal scar tissue, repair with hypertrophic scar tissue or the formation of keloids. The role of chemical factors in wound healing has been extensively explored, and while there is evidence suggesting the role of mechanical forces, its influence is much less well defined. Here, we provide a brief review on the recent progress of the role of mechanical force in skin wound healing by comparing laboratory mice, African spiny mice, fetal wound healing and adult scar keloid formation. A comparison across different species may provide insight into key regulators. Interestingly, some findings suggest tension can induce an immune response, and this provides a new link between mechanical and chemical forces. Clinically, manipulating skin tension has been demonstrated to be effective for scar prevention and treatment, but not for tissue regeneration. Utilising this knowledge, specialists may modulate regulatory factors and develop therapeutic strategies to reduce scar formation and promote regeneration.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1111/exd.13460",
+      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/exd.13460",
+      "landing_page": "https://doi.org/10.1111/exd.13460"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7171221649",
+      "W7168267472"
+    ]
   },
   {
     "id": "W2791190674",
@@ -8827,6 +9150,34 @@
     "oa_status": "green",
     "license": null,
     "redistributable": false
+  },
+  {
+    "id": "W2588089082",
+    "title": "Understanding the Full Spectrum of Organ Injury Following Intrapartum Asphyxia",
+    "authors": "Domenic A. LaRosa, Stacey J. Ellery, David W. Walker, Hayley Dickinson",
+    "year": 2017,
+    "publication_date": "2017-02-17",
+    "oa_status": "gold",
+    "license": "cc-by",
+    "redistributable": true,
+    "journal": "Frontiers in Pediatrics",
+    "topics": [
+      "Development",
+      "Reproduction"
+    ],
+    "abstract": "Birth asphyxia is a significant global health problem, responsible for ~1.2 million neonatal deaths each year worldwide. Those who survive often suffer from a range of health issues including brain damage-manifesting as cerebral palsy (CP)-respiratory insufficiency, cardiovascular collapse, and renal dysfunction, to name a few. Although the majority of research is directed toward reducing the brain injury that results from intrapartum birth asphyxia, the multi-organ injury observed in surviving neonates is of equal importance. Despite the advent of hypothermia therapy for the treatment of hypoxic-ischemic encephalopathy (HIE), treatment options following asphyxia at birth remain limited, particularly in low-resource settings where the incidence of birth asphyxia is highest. Furthermore, although cooling of the neonate results in improved neurological outcomes for a small proportion of treated infants, it does not provide any benefit to the other organ systems affected by asphyxia at birth. The aim of this review is to summarize the current knowledge of the multi-organ effects of intrapartum asphyxia, with particular reference to the findings from our laboratory using the precocial spiny mouse to model birth asphyxia. Furthermore, we reviewed the current treatments available for neonates who have undergone intrapartum asphyxia, and highlight the emergence of maternal dietary creatine supplementation as a preventative therapy, which has been shown to provide multi-organ protection from birth asphyxia-induced injury in our preclinical studies. This cheap and effective nutritional supplement may be the key to reducing birth asphyxia-induced death and disability, particularly in low-resource settings where current treatments are unavailable.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.3389/fped.2017.00016",
+      "pdf": "https://www.frontiersin.org/articles/10.3389/fped.2017.00016/pdf",
+      "landing_page": "https://doi.org/10.3389/fped.2017.00016"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W4407722812",
+      "W4404457467",
+      "W4292492313"
+    ]
   },
   {
     "id": "W4246031048",
@@ -10915,6 +11266,35 @@
     "redistributable": false
   },
   {
+    "id": "W1578745548",
+    "title": "Molecular systematics of gerbils and deomyines (Rodentia: Gerbillinae, Deomyinae) and a test of desert adaptation in the tympanic bulla",
+    "authors": "Bader H. Alhajeri, Ondreia J. Hunt, Scott J. Steppan",
+    "year": 2015,
+    "publication_date": "2015-06-08",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "Journal of Zoological Systematics & Evolutionary Research",
+    "topics": [
+      "Taxonomy, Systematics & Evolution",
+      "Genetics & Genomics",
+      "Ecology & Field Biology"
+    ],
+    "abstract": "Recent molecular studies in gerbils found multiple instances of discordance between molecular and morphological phylogenies. In this study, we analyse the largest molecular data set to date of gerbils and their sister group the deomyines to estimate their phylogenetic relationships. Maximum-likelihood and Bayesian analyses were largely concordant, and both generally had high levels of node support. For gerbils, the results were generally concordant with previous molecular phylogenies based on allozymes, chromosomes, DNA/DNA hybridization and DNA sequences, and discordant with morphological phylogenies. None of the traditional gerbil tribes and subtribes were monophyletic. In addition, paraphyly was found in the genera Gerbillus, Gerbilliscus and Meriones as well as in five subgenera within Dipodillus, Gerbillurus and Meriones. Short branches separating taxa in small clusters within Dipodillus and Meriones suggest synonymy. Within deomyines, all genera and subgenera were monophyletic; however, two species groups within Acomys appear to contain synonymous taxa. We also find support for the discordance between molecular and morphological phylogenies in gerbils being partly due to convergent adaptations to arid environments, primarily in the suite of traits associated with inflation of the tympanic bullae. Relative bullar size does appear to be a desert adaptation and is correlated with aridity independent of phylogeny. Further, it varies more strongly along bioclimatic clines than between binary habitat classifications (desert versus mesic).",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1111/jzs.12102",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1111/jzs.12102"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7162406173",
+      "W7118185462",
+      "W4408839151"
+    ]
+  },
+  {
     "id": "W2795000977",
     "title": "CONCENTRATION OF HEAVY METALS IN THE TISSUES OF SPINY MOUSE AS BIO-INDICATORS OF POLLUTION UNDER DIFFERENT ENVIRONMENTAL CONDITIONS IN EGYPT",
     "authors": "Eman M. E. Mohallal, Mahmoud Younes",
@@ -11483,6 +11863,34 @@
     "redistributable": false
   },
   {
+    "id": "W1995588230",
+    "title": "Animal models of skin regeneration",
+    "authors": "Barbara Gawrońska‐Kozak, Anna Grabowska, Marta Kopcewicz, Anna Kur‐Piotrowska",
+    "year": 2014,
+    "publication_date": "2014-01-17",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "Reproductive Biology",
+    "topics": [
+      "General Regeneration & Wound Healing",
+      "Tissue: Skin & Hair"
+    ],
+    "abstract": "Cutaneous injury in the majority of vertebrate animals results in the formation of a scar in the post-injured area. Scar tissues, although beneficial for maintaining integrity of the post-wounded region often interferes with full recovery of injured tissues. The goal of wound-healing studies is to identify mechanisms to redirect reparative pathways from debilitating scar formation to regenerative pathways that lead to normal functionality. To perform such studies models of regeneration, which are rare in mammals, are required. In this review we discussed skin regenerative capabilities present in lower vertebrates and in models of skin scar-free healing in mammals, e.g. mammalian fetuses. However, we especially focused on the attributes of two unusual models of skin scar-free healing capabilities that occur in adult mammals, that is, those associated with nude, FOXN1-deficient mice and in wild-type African spiny mice.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1016/j.repbio.2014.01.004",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1016/j.repbio.2014.01.004"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7171221649",
+      "W7159926740"
+    ]
+  },
+  {
     "id": "W2136345050",
     "title": "Sympatric incipient speciation of spiny mice <i>Acomys</i> at “Evolution Canyon,” Israel",
     "authors": "Yarin Hadid, Tomáš Pavlı́ček, Avigdor Beiles, Ron Ianovici, Shmuel Raz, Eviatar Nevo",
@@ -11594,6 +12002,37 @@
     "oa_status": "bronze",
     "license": null,
     "redistributable": false
+  },
+  {
+    "id": "W2325595774",
+    "title": "Age at weaning, immunocompetence and ectoparasite performance in a precocial desert rodent",
+    "authors": "Elizabeth M. Dlugosz, Joë̈lle Goü̈y de Bellocq, Irina S. Khokhlova, A. Allan Degen, Berry Pinshow, Boris R. Krasnov",
+    "year": 2014,
+    "publication_date": "2014-01-01",
+    "oa_status": "bronze",
+    "license": null,
+    "redistributable": false,
+    "journal": "Journal of Experimental Biology",
+    "topics": [
+      "Ecology & Field Biology",
+      "Tools & Techniques",
+      "Reproduction",
+      "Development",
+      "Immunology & Infection"
+    ],
+    "abstract": "We studied the effects of early weaning on immunocompetence and parasite resistance in a precocial rodent Acomys cahirinus. We hypothesized that if parasite resistance is energetically expensive and nutritional and immunological support from mothers are necessary for the long-term health of offspring, then early weaned animals would be immunologically weaker and less able to defend themselves against parasites than later weaned animals. We weaned pups at 14, 21 or 28 days after birth and assessed their immunocompetence and resistance against fleas Parapulex chephrenis when they attained adulthood. Immunocompetence was assessed using leukocyte concentration (LC) and a phytohaemagglutinin injection assay (PHA test). To estimate resistance against fleas, we measured performance of fleas via the number of produced eggs and duration of development and resistance to starvation of the flea offspring. We found a significant positive effect of weaning age on the PHA response but not on LC. The effect of age at weaning on flea egg production was manifested in male but not female hosts, with egg production being higher if a host was weaned at 14 than at 28 days. Weaning age of the host did not affect either duration of development or resistance to starvation of fleas produced by mothers fed on these hosts. We conclude that even in relatively precocial mammals, weaning age is an important indicator of future immunological responses and the ability of an animal to resist parasite infestations. Hosts weaned at an earlier age make easier, less-resistant targets for parasite infestations than hosts weaned later in life.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1242/jeb.106005",
+      "pdf": "https://journals.biologists.com/jeb/article-pdf/217/17/3078/1882803/3078.pdf",
+      "landing_page": "https://doi.org/10.1242/jeb.106005"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171221649",
+      "W7163527825",
+      "W7163196224"
+    ]
   },
   {
     "id": "W2093141345",
@@ -13677,6 +14116,34 @@
     "redistributable": false
   },
   {
+    "id": "W1576581762",
+    "title": "Comparing adult hippocampal neurogenesis in mammalian species and orders: influence of chronological age and life history stage",
+    "authors": "Irmgard Amrein, Karin Isler, Hans‐Peter Lipp",
+    "year": 2011,
+    "publication_date": "2011-09-01",
+    "oa_status": "green",
+    "license": "other-oa",
+    "redistributable": false,
+    "journal": "European Journal of Neuroscience",
+    "topics": [
+      "Cell & Molecular Biology",
+      "Reproduction"
+    ],
+    "abstract": "Adult hippocampal neurogenesis is a prominent event in rodents. In species with longer life expectancies, newly born cells in the adult dentate gyrus of the hippocampal formation are less abundant or can be completely absent. Several lines of evidence indicate that the regulatory mechanisms of adult neurogenesis differ between short- and long-lived mammals. After a critical appraisal of the factors and problems associated with comparing different species, we provide a quantitative comparison derived from seven laboratory strains of mice (BALB, C57BL/6, CD1, outbred) and rats (F344, Sprague-Dawley, Wistar), six other rodent species of which four are wild-derived (wood mouse, vole, spiny mouse and guinea pig), three non-human primate species (marmoset and two macaque species) and one carnivore (red fox). Normalizing the number of proliferating cells to total granule cell number, we observe an overall exponential decline in proliferation that is chronologically equal between species and orders and independent of early developmental processes and life span. Long- and short-lived mammals differ with regard to major life history stages; at the time points of weaning, age at first reproduction and average life expectancy, long-lived primates and foxes have significantly fewer proliferating cells than rodents. Although the database for neuronal differentiation is limited, we find indications that the extent of neuronal differentiation is subject to species-specific selective adaptations. We conclude that absolute age is the critical factor regulating cell genesis in the adult hippocampus of mammals. Ontogenetic and ecological factors primarily influence the regulation of neuronal differentiation rather than the rate of cell proliferation.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1111/j.1460-9568.2011.07804.x",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1111/j.1460-9568.2011.07804.x"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W4406322059",
+      "W4292492313",
+      "W4281788062"
+    ]
+  },
+  {
     "id": "W2048981697",
     "title": "The Effect of the Lunar Cycle on Fecal Cortisol Metabolite Levels and Foraging Ecology of Nocturnally and Diurnally Active Spiny Mice",
     "authors": "Roee Gutman, Tamar Dayan, Ofir Levy, Iris Schubert, Noga Kronfeld‐Schor",
@@ -15217,6 +15684,29 @@
     "oa_status": "closed",
     "license": null,
     "redistributable": false
+  },
+  {
+    "id": "W2124137314",
+    "title": "Foraging behaviour of two rodent species inhabiting a kopje (rocky outcrop) in Tsavo West National Park, Kenya",
+    "authors": "Benjamin G. Fanson, Kerry V. Fanson, Joel S. Brown",
+    "year": 2008,
+    "publication_date": "2008-10-01",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "African Zoology",
+    "topics": [
+      "Ecology & Field Biology"
+    ],
+    "abstract": "We employed patch use theory to evaluate how several environmental factors influence the foraging behaviour of two rodent species: Grammomys dolichurus and Acomys cahirinus. Foraging efficiency was determined by measuring the remaining food in artificial food patches (giving-up densities: GUDs) from two experiments. In the first experiment, we placed patches in different microhabitat types (cover vs open) and at varying distances from cover. This experiment was conducted during three moon stages (waxing, full, waning). We found that the rodents had higher GUDs (lower foraging efficiency) in the open microhabitat. The distance from nearest shelter had a marginally significant positive effect on GUDs. GUDs were higher in both microhabitat types during the waxing and full phases, but decreased sharply once the moon began to rise after sunset. These results are likely due to higher predation risk away from cover and in more illuminated environments. In the second experiment, we examined mouse responses to seeds impregnated with plant toxins. Seeds impregnated with oxalic acid were avoided by the rodents, while seeds soaked in tannic acid did not differ significantly from control seeds. Our results highlight important ecological factors affecting the foraging behaviour of these rodents.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.3377/1562-7020-43.2.184",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.3377/1562-7020-43.2.184"
+    },
+    "is_abstract_only": false,
+    "related_articles": []
   },
   {
     "id": "W2076003284",
@@ -17964,6 +18454,29 @@
     "redistributable": false
   },
   {
+    "id": "W2082653619",
+    "title": "The Cerebellum at Birth in Therian Mammals, with Special Reference to Rodents",
+    "authors": "Marcelo R. Sánchez‐Villagra, Fahad Sultan",
+    "year": 2002,
+    "publication_date": "2002-01-01",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "Brain Behavior and Evolution",
+    "topics": [
+      "Development"
+    ],
+    "abstract": "The stage of cerebellar development at birth was assessed in 23 species of placental mammals. Serial histological sections were examined and five stages in the differentiation of the cerebellar cortical layers were defined. A wide diversity of conditions at birth was found. The available evidence (after parsimony reconstruction) suggests that the last common ancestor of placentals was born with an altricial cerebellum in which the molecular layer was just present between the external granular layer and the prospective Purkinje cell layer. Some placental species have an even more altricial cerebellum at birth (e.g., Muscardinus avellanarius, Sorex araneus), with Mesocricetus auratus as the most altricial species among the taxa studied. In the newborn M. auratus a cerebellar anlage was present with only a loose accumulation of cells located at the dorsal cerebellar anlage above the ventricular neuroepithelial layer. The five species of caviomorph rodents examined here are relatively precocial as far as the cerebellum is concerned. The only other rodent species that has a similarly advanced state was the murid Acomys sp. Most of the life history variables examined were not strongly correlated with the cerebellar stage at birth if at all. However, a significant positive correlation (r(2) = 0.67) was observed between the cerebellar stage at birth and the gestation length and a significant negative correlation (r(2) = 0.31) was observed between cerebellar stage and the average litter size. The weak correlation may be due to sampling among different distantly related clades. The most mature cerebella at birth still had an external granular layer, indicating that the mossy fiber-granule cell connectivity is not yet fully developed and further indicating that this connectivity may depend on external experience to fully mature. All species that have their eyes open at birth also have the most mature cerebelli. The growth of the cortical layers was also studied in a postnatal ontogenetic series of the marsupial Monodelphis domestica. As is the case with placentals, the most advanced stage of cerebellar development coincides with the opening of the eyes.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1159/000064158",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1159/000064158"
+    },
+    "is_abstract_only": false,
+    "related_articles": []
+  },
+  {
     "id": "W2109836468",
     "title": "RETINAL STRUCTURE AND FORAGING MICROHABITAT USE OF THE GOLDEN SPINY MOUSE (<i>ACOMYS RUSSATUS</i>)",
     "authors": "Noga Kronfeld‐Schor, Tamar Dayan, Menna E. Jones, Israel Kremer, Yael Mandelik, Miriam Wollberg, Y Yassur, Dan D. Gaton",
@@ -18136,6 +18649,29 @@
     "oa_status": "closed",
     "license": null,
     "redistributable": false
+  },
+  {
+    "id": "W2020109110",
+    "title": "Wheel-Running Activity Patterns of Five Species of Desert Rodents",
+    "authors": "Gregory E. Demas, Hanan A. El-Bakry, Eric Mintz, Wafaa M. Zarhan, Timothy J. Bartness",
+    "year": 2001,
+    "publication_date": "2001-04-01",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "Biological Rhythm Research",
+    "topics": [
+      "Ecology & Field Biology"
+    ],
+    "abstract": "In contrast to the extensive laboratory data on activity patterns in rodent species inhabiting temperate zones, much less is known about the activity patterns of desert rodents. In order to address this issue, we measured wheel-running activity patterns in males and females of five species of wild-trapped desert rodents (Dipodillus dasyurus, Gerbillus andersoni, Gerbillus pyramidum, Meriones shawi, and Acomys cahirinus) in long ‘summer-like’ and short, ‘winter-like’ day lengths. The specific goals of the present study were to characterize activity patterns in several desert rodent species in the laboratory and to determine if activity patterns are expressed in a seasonal or sexually dimorphic manner. Specifically, wheel-running was measured for 11 weeks in long days followed by 11 weeks in short days to test for photoperiodic entrainment as well as responsiveness to changes in the light-dark cycle. All animals exhibited rhythmic patterns of wheel-running with consistent onsets and offsets that had well-defined relations with the light-dark cycle. All individuals of G. andersoni showed nocturnal activity patterns. Most individuals of G. pyramidum had nocturnal activity patterns, but some individuals showed a short bout of activity at the beginning of the light period. Most individuals of D. dasyurus and M. shawi showed bimodal (i.e., nocturnal and diurnal) activity patterns, although some showed markedly nocturnal activity patterns. There was no sexual dimorphism in wheel running activity rhythms in any of the species examined. As expected, decreases in day length resulted in an overall increase in the duration of activity in all species. Collectively, these data provide an initial characterization of activity patterns within desert rodents in a controlled laboratory setting.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1076/brhm.32.1.1.7287",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1076/brhm.32.1.1.7287"
+    },
+    "is_abstract_only": false,
+    "related_articles": []
   },
   {
     "id": "W561914604",
@@ -18365,6 +18901,34 @@
     "oa_status": "bronze",
     "license": null,
     "redistributable": false
+  },
+  {
+    "id": "W2133279425",
+    "title": "Molecular Phylogeny of European Muroid Rodents Based on Complete Cytochrome b Sequences",
+    "authors": "Y. E. Martin, Gabriele Gerlach, Christian Schlötterer, Axel Meyer",
+    "year": 2000,
+    "publication_date": "2000-07-01",
+    "oa_status": "bronze",
+    "license": null,
+    "redistributable": false,
+    "journal": "Molecular Phylogenetics and Evolution",
+    "topics": [
+      "Taxonomy, Systematics & Evolution",
+      "Genetics & Genomics"
+    ],
+    "abstract": "Phylogenetic relationships among 18 species of mainly European muroid rodents that belong to three subfamilies were estimated using complete sequences of the mitochondrial cytochrome b gene. The inferred monophyly of the subfamilies Murinae (mice and rats) and Arvicolinae (voles, lemmings, and muskrats) is in agreement with previous studies. Within the Murinae, the morphology-based division of the genus Apodemus into three subgenera is supported by these DNA sequence data. The relationships among the different genera of the Murinae were generally poorly resolved, and the relationships of Micromys and Acomys to the other murine genera remained unresolved. Within the subfamily Arvicolinae, the relations of the genera Arvicola, Clethrionomys, and Microtus remained tentative with our data. However, within the Microtus group, there is a good molecular support for the phylogenetic relationships. These findings suggest that the origin of the different murine and arvicoline lineages was rapid, indicating an adaptive radiation with fast speciation.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1006/mpev.1999.0760",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S1055790399907601",
+      "landing_page": "https://doi.org/10.1006/mpev.1999.0760"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7162406173",
+      "W4408839151",
+      "W4384560188"
+    ]
   },
   {
     "id": "W2132118265",
@@ -22682,6 +23246,34 @@
     "redistributable": false
   },
   {
+    "id": "W1987864090",
+    "title": "Development of olfactory bulb organization in precocial and altricial rodents",
+    "authors": "Michael Leon, Robert Coopersmith, Catherine Ulibarri, Richard H. Porter, J.Bradley Powers",
+    "year": 1984,
+    "publication_date": "1984-01-01",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "Developmental Brain Research",
+    "topics": [
+      "Development",
+      "Neuroscience & Behavior"
+    ],
+    "abstract": "The structural organization of the olfactory bulbs of spiny mice, Norway rats and Mongolian gerbils was followed over the course of their development. The pups of all 3 species normally begin to approach the odor of their dams at a time when their olfactory bulbs are at a similar stage of development. The data suggest that there may be a common aspect of olfactory bulb development that underlies the onset of olfactory guided approach behavior in rodents.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1016/0165-3806(84)90175-5",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1016/0165-3806(84)90175-5"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7163161046",
+      "W7168186347",
+      "W7117686486"
+    ]
+  },
+  {
     "id": "W2093371574",
     "title": "Evidence for phenotype matching in spiny mice (Acomys cahirinus)",
     "authors": "Richard H. Porter, John A. Matochik, Jennifer W. Makin",
@@ -24300,6 +24892,34 @@
     "redistributable": false
   },
   {
+    "id": "W4322698619",
+    "title": "ZINC AND MANGANESE CONTENTS OF MICRO-DISSECTED PANCREATIC ISLETS OF SOME RODENTS",
+    "authors": "Niilo Havu, Gillis Lundgren, Sture Falkmer",
+    "year": 1977,
+    "publication_date": "1977-11-01",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "European Journal of Endocrinology",
+    "topics": [
+      "Tools & Techniques",
+      "Metabolism, Endocrinology & Physiology"
+    ],
+    "abstract": "ABSTRACT By a flameless atomic absorption spectrophotometry procedure, using a graphite furnace, it was possible to assay the contents of zinc and manganese in micro-dissected pancreatic islets of several rodents. Interest was focused upon the islets of guinea-pigs, due to the fact that guinea-pig insulin lacks a histidine residue in the B 10 position of the molecule which normally binds zinc (or other heavy metals) in the hexamer formation, probably involved in the storage of insulin. Both the zinc and manganese contents were too low in the guinea-pig islet parenchyma to be reasonably involved in the storage of insulin in the β-granules. Instead, it was suggested that guinea-pig insulin, like hagfish insulin, might crystallize without access to zinc or other heavy metals. Low zinc and manganese contents were also observed in newborn and diabetic guinea-pigs. The islet zinc content was high in the Wistar rat, the Chinese hamster, and the spiny mouse. No significant amounts of manganese were found in any of these kinds of islet parenchyma.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1530/acta.0.0860570",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1530/acta.0.0860570"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171221649",
+      "W7163196224",
+      "W7136736644"
+    ]
+  },
+  {
     "id": "W2034344916",
     "title": "Longevity and mortality in 15 rodent species and subspecies maintained in laboratory colonies",
     "authors": "Peter Morrison, R. A. Dieterich, Diane Preston",
@@ -24344,6 +24964,27 @@
     "oa_status": "closed",
     "license": null,
     "redistributable": false
+  },
+  {
+    "id": "W2321689012",
+    "title": "Body Growth in Sixteen Rodent Species and Subspecies Maintained in Laboratory Colonies",
+    "authors": "Peter Morrison, R. A. Dieterich, Diane Preston",
+    "year": 1977,
+    "publication_date": "1977-10-01",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "Physiological Zoology",
+    "topics": [],
+    "abstract": "Body growth as weight change during the initial year is described for 10 microtines: Microtus pennsylvanicus tananaensis, M. oeconomus macfarlani, M. o. operarius, M. miurus, M. abbreviatus, Lemmus lemmus, L. sibiricus, Dicrostonyx stevensoni and Clethrionomys rutilus; five cricetines: Peromyscus maniculatus borealis, P. m. bairdii, Baiomys taylori, Calomys ducilla, and Calomys callosus; and one murid, Acomys cahirinus. The growth curves constituted sets of linear segments and were characterized by their respective slopes and initiation points. A rapid growth phase was sometimes preceded by a slower initial phase and always succeeded by a slower attenuation phase. A stable adult weight was achieved in some species but not others. Early and later growth were compared using times for 40% and 80% of the weight (WA) at 1 yr (t40, t80). Early growth as gram per week was relatively stable among subspecies or related species; or between animals of different size when normalized as percent of WA per week, or t40 by a common weight function. By contrast, later growth (t80) was much more variable and may be viewed as a possible adaptive factor.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1086/physzool.50.4.30155733",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.1086/physzool.50.4.30155733"
+    },
+    "is_abstract_only": false,
+    "related_articles": []
   },
   {
     "id": "W2018577094",
@@ -24614,6 +25255,27 @@
     "oa_status": "closed",
     "license": null,
     "redistributable": false
+  },
+  {
+    "id": "W3201916056",
+    "title": "BASIC HAEMATOLOGIC DATA ON THE EGYPTIAN RODENTS",
+    "authors": "M. S. Arafa, A. M. Salit, T.Y. Helal, Ahmed Abdelwahab",
+    "year": 1976,
+    "publication_date": "1976-05-01",
+    "oa_status": "bronze",
+    "license": null,
+    "redistributable": false,
+    "journal": "Assiut Veterinary Medical Journal/Maǧallaẗ Asyūṭ al-ṭibiyyaẗ al-baytariyyaẗ",
+    "topics": [],
+    "abstract": "The present paper gives the base-line data on the blood picture of various sexes and age groups of commensal, domestic and field rodents in Egypt. According to the haemopoetic activity of these animals based on descending values of haemoglobin percentages, eryrthoplastid and leucocytic counts, and ascending values of bleeding, coagula tion and prothrombin times, these animals might be arranged in the following order : Rattus norvegicus, R. r. alexandrinus, Acomys cahirum, R. r. frugivorus, and Arvicanthis niloticus. All of them showed high lymphocytic count. followed by neutro phils, monocytes, eosinophils and finally basophils. It was concluded that animals feeding essentially on protein diets such as R. norvegicus, Ac. cahirinus and R. r. alexandrinus tended to show pronounced haemopoetic activity and more coa gulability than the remaining rats which feed on less protein diets. re Variations due to age and sex of these animals were also corded.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.21608/avmj.1976.193432",
+      "pdf": "https://avmj.journals.ekb.eg/article_193432_d611cc1ea542d786b4e6f8b17f1ebe61.pdf",
+      "landing_page": "https://doi.org/10.21608/avmj.1976.193432"
+    },
+    "is_abstract_only": false,
+    "related_articles": []
   },
   {
     "id": "W2403346455",
