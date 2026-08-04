@@ -2497,6 +2497,33 @@
     "related_articles": []
   },
   {
+    "id": "W4402169221",
+    "title": "Type III Collagen Regulates Matrix Architecture and Mechanosensing during Wound Healing",
+    "authors": "Daniel Stewart, Becky K. Brisson, William Yen, Yuchen Liu, C. Wang, Gordon Ruthel, Donald Gullberg, Robert L. Mauck, Malcolm Maden, Lin Han, Susan W. Volk",
+    "year": 2024,
+    "publication_date": "2024-09-03",
+    "journal": "Journal of Investigative Dermatology",
+    "topics": [
+      "Tissue: Skin & Hair",
+      "General Regeneration & Wound Healing",
+      "Development",
+      "Neuroscience & Behavior"
+    ],
+    "abstract": "Postnatal cutaneous wound healing is characterized by development of a collagen-rich scar lacking the architecture&#xa0;and functional integrity of unwounded tissue. Directing cell behaviors to efficiently heal wounds while minimizing scar formation remains a major wound management goal. In this study, we demonstrate type III collagen (COL3) as a critical regulator of re-epithelialization and scar formation during healing of COL3-enriched, regenerative (Acomys), scar-permissive (CD-1 Mus and wild-type Col3 B6/B6 mice) and COL3-deficient, scar-promoting (Col3 F/F , a murine conditional knockdown model) cutaneous wound models. We define a scar-permissive fibrillar collagen architecture signature characterized by elongated and anisotropically aligned collagen fibers that is dose-dependently suppressed by COL3. Furthermore, loss of COL3 alters how cells interpret their microenvironment-their mechanoperception-such that COL3-deficient cells display mechanically active phenotypes in the absence of increased microenvironmental stiffness through the upregulation and&#xa0;engagement of the profibrotic integrin &#x3b1;11. Further understanding COL3's role in regulating matrix architecture and mechanoresponses may inform clinical strategies that harness proregenerative mechanisms.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1016/j.jid.2024.08.013",
+      "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12359077/pdf/nihms-2100561.pdf",
+      "landing_page": "https://doi.org/10.1016/j.jid.2024.08.013"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7171221649",
+      "W7167728346"
+    ]
+  },
+  {
     "id": "W4402981389",
     "title": "Combination of Histological and Transcriptomic Approaches for Annotation of Cell Types in Non-Model Organisms by Example of Spiny Mice Acomys cahirinus",
     "authors": "Nikita Filatov, Airat Bilyalov, Guzel R. Gazizova, Alina Bilyalova, Elena Shagimardanova, Maria Vorontsova, A. P. Kiyasov, Oleg Gusev, Olga Kozlova",
