@@ -167,6 +167,7 @@ def main():
                     "title": title,
                     "authors": ", ".join(author_names),
                     "year": work.get('publication_year'),
+                    "publication_date": work.get('publication_date'),
                     "journal": journal,
                     "topics": topics,
                     "abstract": abstract,
@@ -209,7 +210,17 @@ def main():
                 break
         paper['related_articles'] = related
 
-    existing_papers.sort(key=lambda x: x.get('year') if x.get('year') else 0, reverse=True)
+    # Sort on the full publication date. Sorting by year alone tied every paper
+    # within a year, and since sort is stable, newly appended papers ended up at
+    # the bottom of their own year rather than at the top of the library.
+    def sort_key(p):
+        d = p.get('publication_date')
+        if d:
+            return d
+        y = p.get('year')
+        return f"{y}-01-01" if y else "0000-01-01"
+
+    existing_papers.sort(key=sort_key, reverse=True)
     
     with open('acomys_library.json', 'w', encoding='utf-8') as f:
         json.dump(existing_papers, f, indent=2, ensure_ascii=False)

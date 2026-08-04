@@ -1368,10 +1368,16 @@
                 return matchQuery && matchTopic;
             });
 
+            // Sort on the full publication date, not just the year. Sorting by
+            // year alone left every paper in a year tied, and because Array.sort
+            // is stable they kept their insertion order -- so newly added papers
+            // sank to the bottom of their own year instead of appearing first.
+            const dateKey = p => p.publication_date || (p.year ? `${p.year}-01-01` : '0000-01-01');
+
             if (sort === 'year-desc') {
-                filteredPapers.sort((a, b) => (b.year || 0) - (a.year || 0));
+                filteredPapers.sort((a, b) => dateKey(b).localeCompare(dateKey(a)));
             } else if (sort === 'year-asc') {
-                filteredPapers.sort((a, b) => (a.year || 0) - (b.year || 0));
+                filteredPapers.sort((a, b) => dateKey(a).localeCompare(dateKey(b)));
             }
 
             currentPage = 1;
