@@ -1,0 +1,6 @@
+{
+ "_comment": "DOIs kept regardless of the relevance heuristics in update_library.py. Add entries here after reviewing excluded_report.json. See MANUAL_REVIEW.md.",
+ "dois": [
+  "10.1016/j.jid.2024.08.013"
+ ]
+}

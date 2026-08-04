@@ -22,6 +22,8 @@ def reconstruct_abstract(inverted_index):
     return " ".join([word for pos, word in word_positions])
 
 ABSTRACT_CACHE_FILE = 'abstract_cache.json'
+MANUAL_INCLUDE_FILE = 'manual_include.json'
+EXCLUDED_REPORT_FILE = 'excluded_report.json'
 CONTACT_EMAIL = 'justinvarholick@gmail.com'  # polite-pool identification for both APIs
 
 
@@ -93,7 +95,13 @@ def get_external_abstract(doi, cache):
     return abstract
 
 
-def passes_filters(title, abstract, journal, doi, work=None):
+def rejection_reason(title, abstract, journal, doi, work=None):
+    """Return why this work is excluded, or None if it should be kept.
+
+    Returning the reason (rather than just a boolean) lets each run write an
+    excluded_report.json for manual review, so borderline calls are visible
+    instead of silently dropped.
+    """
     title_lower = title.lower()
     abstract_lower = abstract.lower()
     journal_lower = journal.lower()
@@ -101,40 +109,47 @@ def passes_filters(title, abstract, journal, doi, work=None):
 
     # 1. Neacomys Exclusion
     if 'neacomys' in title_lower or 'neacomys' in abstract_lower:
-        return False
-        
+        return "neacomys (different genus)"
+
     # 2. Figshare / Zenodo Exclusion
     if 'figshare' in journal_lower or 'figshare' in doi_lower or 'zenodo' in journal_lower or 'zenodo' in doi_lower:
-        return False
-        
+        return "data repository (figshare/zenodo)"
+
     # 3. Archives / specific exclusions
     if 'hash://md5' in title_lower or 'versioned archive' in title_lower or 'trouble in flatland' in title_lower:
-        return False
-        
+        return "archive/dataset artifact"
+
     # 4. Cyrillic and CJK Exclusions
-    if re.search(r'[А-Яа-я]', title):
-        return False
+    if re.search(r'[\u0410-\u044f]', title):
+        return "cyrillic title"
     if re.search(r'[\u3040-\u30ff\u4e00-\u9fff]', title):
-        return False
-        
+        return "CJK title"
+
     # 5. Occurance Downloads
     if 'occurrence download' in title_lower:
-        return False
-        
+        return "GBIF occurrence download"
+
     # 6. Threshold filter (at least 2 mentions if not in title)
     title_match = ('acomys' in title_lower or 'spiny m' in title_lower)
     if not title_match:
         acomys_count = abstract_lower.count('acomys') + abstract_lower.count('spiny m')
         if acomys_count < 2:
-            return False
-            
+            if not abstract:
+                return "no abstract available anywhere (unevaluatable)"
+            return f"only {acomys_count} mention(s) in abstract, none in title"
+
         # 7. Metadata Anomaly Guard
         # If the title has nothing to do with biology, it's likely an OpenAlex metadata mixup.
         red_flags = ['terror ', 'northern ireland', 'pembelajaran', 'pemasaran', 'political', 'sociology']
         if any(rf in title_lower for rf in red_flags):
-            return False
+            return "off-topic title (likely metadata mixup)"
 
-    return True
+    return None
+
+
+def passes_filters(title, abstract, journal, doi, work=None):
+    return rejection_reason(title, abstract, journal, doi, work) is None
+
 
 def categorize_paper(title, abstract, config):
     text = f"{title} {abstract}"
@@ -173,6 +188,16 @@ def main():
     else:
         abstract_cache = {}
     cache_size_at_start = len(abstract_cache)
+
+    # DOIs to keep regardless of the relevance heuristics, curated by hand from
+    # excluded_report.json. See MANUAL_REVIEW.md.
+    manual_includes = set()
+    if os.path.exists(MANUAL_INCLUDE_FILE):
+        with open(MANUAL_INCLUDE_FILE, 'r', encoding='utf-8') as f:
+            manual_includes = {bare_doi(d) for d in json.load(f).get('dois', [])}
+        print(f"Manual includes: {len(manual_includes)} DOIs")
+
+    excluded = []  # everything the filter drops, written out for review
         
     existing_by_doi = {}
     existing_norm_titles = []
@@ -240,7 +265,27 @@ def main():
                 if not pdf and work.get('open_access', {}).get('oa_url'):
                     pdf = work.get('open_access', {}).get('oa_url')
 
-                if not passes_filters(title, abstract, journal, doi, work):
+                # A DOI listed in manual_include.json is kept regardless of the
+                # heuristics -- relevance is sometimes a judgement the filter
+                # cannot make (e.g. a central paper that names the genus once).
+                if bare_doi(doi) in manual_includes:
+                    reason = None
+                else:
+                    reason = rejection_reason(title, abstract, journal, doi, work)
+
+                if reason:
+                    excluded.append({
+                        "title": title,
+                        "authors": ", ".join(
+                            a.get('author', {}).get('display_name')
+                            for a in work.get('authorships', [])
+                            if a.get('author', {}).get('display_name')
+                        )[:200],
+                        "year": work.get('publication_year'),
+                        "journal": journal,
+                        "doi": bare_doi(doi),
+                        "reason": reason,
+                    })
                     continue
 
                 # Authors
@@ -283,6 +328,18 @@ def main():
             print(f"Error fetching page: {e}")
             break
             
+    # Write every exclusion out so borderline calls can be reviewed by hand and
+    # promoted into manual_include.json, rather than disappearing silently.
+    excluded.sort(key=lambda e: (-(e.get('year') or 0), e.get('title') or ''))
+    with open(EXCLUDED_REPORT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(excluded, f, indent=1, ensure_ascii=False)
+    by_reason = {}
+    for e in excluded:
+        by_reason[e['reason']] = by_reason.get(e['reason'], 0) + 1
+    print(f"Excluded {len(excluded)} works (written to {EXCLUDED_REPORT_FILE}):")
+    for r, n in sorted(by_reason.items(), key=lambda kv: -kv[1]):
+        print(f"  {n:4d}  {r}")
+
     if len(abstract_cache) != cache_size_at_start:
         with open(ABSTRACT_CACHE_FILE, 'w', encoding='utf-8') as f:
             json.dump(abstract_cache, f, indent=1, ensure_ascii=False, sort_keys=True)
