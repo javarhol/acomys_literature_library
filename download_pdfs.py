@@ -35,13 +35,22 @@ def main():
     skipped = 0
     failed = 0
 
+    restricted = 0
+
     for p in papers:
         paper_id = p.get('id', '')
         pdf_url = p.get('links', {}).get('pdf', '')
-        
+
         if not pdf_url:
             continue
-            
+
+        # Only fetch what may lawfully be redistributed. The PDF exists solely to
+        # feed the deep-search index, which republishes extracted full text, so
+        # anything without an open licence must not be downloaded or indexed.
+        if not p.get('redistributable'):
+            restricted += 1
+            continue
+
         if paper_id in indexed_ids:
             skipped += 1
             continue
@@ -73,6 +82,7 @@ def main():
     print(f"\nFinished!")
     print(f"Downloaded: {downloaded}")
     print(f"Skipped (already exist): {skipped}")
+    print(f"Skipped (not redistributable): {restricted}")
     print(f"Failed: {failed}")
 
 if __name__ == "__main__":

@@ -1,0 +1,12 @@
+# Source PDFs are a rebuildable cache, not distributable content.
+#
+# They exist only as input to parse_pdfs.py, which extracts text into
+# search_index.json. Nothing on the site links to them. Tracking them put ~1.9 GB
+# in the repository -- including publisher PDFs of paywalled papers, which a
+# public repo should not redistribute. download_pdfs.py re-fetches the
+# open-licence ones on demand, and parse_pdfs.py skips papers already indexed, so
+# nothing needs to be re-downloaded routinely.
+papers_pdf/
+
+__pycache__/
+*.pyc

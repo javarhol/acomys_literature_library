@@ -57,17 +57,32 @@ def main():
         print("papers_pdf directory not found.")
         return
 
+    # The index republishes extracted full text, so it may only contain papers
+    # carrying an open licence. See is_redistributable() in update_library.py.
+    allowed_ids = {p['id'] for p in papers if p.get('redistributable')}
+    print(f"Redistributable papers: {len(allowed_ids)} of {len(papers)}")
+
     search_index = []
     indexed_ids = set()
-    
+
     if os.path.exists('search_index.json'):
         try:
             with open('search_index.json', 'r', encoding='utf-8') as f:
                 search_index = json.load(f)
-                for chunk in search_index:
-                    if 'id' in chunk:
-                        indexed_ids.add(chunk['id'])
-            print(f"Loaded existing search index with {len(indexed_ids)} papers.")
+            before = len(search_index)
+            before_papers = len({c.get('id') for c in search_index})
+            # Drop anything previously indexed that is not redistributable. Papers
+            # already in the index predate this check, so this is a purge, not a
+            # no-op: restricted full text must be removed from the published file.
+            search_index = [c for c in search_index if c.get('id') in allowed_ids]
+            removed_papers = before_papers - len({c.get('id') for c in search_index})
+            if removed_papers:
+                print(f"Purged {before - len(search_index)} chunks from "
+                      f"{removed_papers} non-redistributable papers.")
+            for chunk in search_index:
+                if 'id' in chunk:
+                    indexed_ids.add(chunk['id'])
+            print(f"Retained index for {len(indexed_ids)} papers.")
         except Exception as e:
             print("Could not load search_index.json", e)
     
@@ -76,6 +91,7 @@ def main():
 
     matched_count = 0
     unmatched_count = 0
+    restricted_count = 0
 
     for i, filename in enumerate(pdf_files):
         print(f"[{i+1}/{len(pdf_files)}] Processing {filename} ...")
@@ -86,10 +102,15 @@ def main():
             unmatched_count += 1
             continue
             
+        if paper_meta['id'] not in allowed_ids:
+            print(f"  -> Not redistributable ({paper_meta['id']}). Skipping.")
+            restricted_count += 1
+            continue
+
         if paper_meta['id'] in indexed_ids:
             print(f"  -> Already indexed ({paper_meta['id']}). Skipping.")
             continue
-            
+
         matched_count += 1
         filepath = os.path.join(pdf_dir, filename)
         
@@ -118,6 +139,8 @@ def main():
     print(f"\nExtracted {len(search_index)} text chunks from {matched_count} papers.")
     if unmatched_count > 0:
         print(f"Warning: {unmatched_count} PDFs could not be matched to the library.")
+    if restricted_count > 0:
+        print(f"Skipped {restricted_count} PDFs whose papers are not redistributable.")
 
     # Save search index
     with open('search_index.json', 'w', encoding='utf-8') as f:

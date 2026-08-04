@@ -27,6 +27,20 @@ EXCLUDED_REPORT_FILE = 'excluded_report.json'
 CONTACT_EMAIL = 'justinvarholick@gmail.com'  # polite-pool identification for both APIs
 
 
+def is_redistributable(oa_status, license_):
+    """May this paper's full text be republished on the site?
+
+    The deep-search index stores extracted full text, which is a derivative work.
+    That is only safe where the paper carries an open licence. "bronze" is free to
+    read on the publisher's site but grants no redistribution rights, so it is
+    treated as restricted alongside closed access. Used by download_pdfs.py and
+    parse_pdfs.py to decide what may be indexed.
+    """
+    if license_ and str(license_).lower().startswith(('cc', 'public')):
+        return True
+    return oa_status in ('gold', 'diamond', 'hybrid')
+
+
 def bare_doi(doi):
     """OpenAlex returns DOIs as full URLs; Crossref and PubMed want the bare form."""
     return (doi or '').replace('https://doi.org/', '').replace('http://dx.doi.org/', '').strip().lower()
@@ -300,6 +314,11 @@ def main():
                     "authors": ", ".join(author_names),
                     "year": work.get('publication_year'),
                     "publication_date": work.get('publication_date'),
+                    "oa_status": (work.get('open_access') or {}).get('oa_status'),
+                    "license": (work.get('best_oa_location') or {}).get('license'),
+                    "redistributable": is_redistributable(
+                        (work.get('open_access') or {}).get('oa_status'),
+                        (work.get('best_oa_location') or {}).get('license')),
                     "journal": journal,
                     "topics": topics,
                     "abstract": abstract,
