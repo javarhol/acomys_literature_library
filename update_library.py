@@ -21,6 +21,78 @@ def reconstruct_abstract(inverted_index):
     word_positions.sort(key=lambda x: x[0])
     return " ".join([word for pos, word in word_positions])
 
+ABSTRACT_CACHE_FILE = 'abstract_cache.json'
+CONTACT_EMAIL = 'justinvarholick@gmail.com'  # polite-pool identification for both APIs
+
+
+def bare_doi(doi):
+    """OpenAlex returns DOIs as full URLs; Crossref and PubMed want the bare form."""
+    return (doi or '').replace('https://doi.org/', '').replace('http://dx.doi.org/', '').strip().lower()
+
+
+def strip_markup(text):
+    """Crossref abstracts arrive as JATS XML; PubMed as plain text with stray tags."""
+    if not text:
+        return ""
+    text = re.sub(r'<[^>]+>', ' ', text)
+    text = text.replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
+    return " ".join(text.split())
+
+
+def fetch_abstract_crossref(doi):
+    try:
+        r = requests.get(f'https://api.crossref.org/works/{doi}',
+                         params={'mailto': CONTACT_EMAIL}, timeout=20)
+        if r.status_code != 200:
+            return ""
+        return strip_markup(r.json().get('message', {}).get('abstract', ''))
+    except Exception:
+        return ""
+
+
+def fetch_abstract_pubmed(doi):
+    try:
+        E = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils'
+        s = requests.get(f'{E}/esearch.fcgi', params={
+            'db': 'pubmed', 'term': f'{doi}[DOI]', 'retmode': 'json',
+            'email': CONTACT_EMAIL}, timeout=20).json()
+        ids = s.get('esearchresult', {}).get('idlist', [])
+        if not ids:
+            return ""
+        time.sleep(0.35)  # NCBI allows ~3 req/s unauthenticated
+        x = requests.get(f'{E}/efetch.fcgi', params={
+            'db': 'pubmed', 'id': ids[0], 'retmode': 'xml',
+            'email': CONTACT_EMAIL}, timeout=20).text
+        parts = re.findall(r'<AbstractText[^>]*>(.*?)</AbstractText>', x, re.S)
+        return strip_markup(" ".join(parts))
+    except Exception:
+        return ""
+
+
+def get_external_abstract(doi, cache):
+    """Look up an abstract OpenAlex does not expose.
+
+    OpenAlex omits abstract text for many publishers (Elsevier, Wiley and others)
+    while still indexing it for search. That left papers matching the query but
+    failing the local relevance re-check below, purely because the abstract came
+    back empty -- unevaluatable, not irrelevant. Crossref and PubMed usually have
+    the text. Results (including misses, stored as "") are cached so repeat runs
+    do not re-request the same DOIs every week.
+    """
+    d = bare_doi(doi)
+    if not d:
+        return ""
+    if d in cache:
+        return cache[d]
+    abstract = fetch_abstract_crossref(d)
+    if not abstract:
+        time.sleep(0.2)
+        abstract = fetch_abstract_pubmed(d)
+    cache[d] = abstract
+    time.sleep(0.15)
+    return abstract
+
+
 def passes_filters(title, abstract, journal, doi, work=None):
     title_lower = title.lower()
     abstract_lower = abstract.lower()
@@ -93,6 +165,14 @@ def main():
         
     with open('categories_config.json', 'r', encoding='utf-8') as f:
         categories_config = json.load(f)
+
+    # DOI -> abstract text fetched from Crossref/PubMed (see get_external_abstract).
+    if os.path.exists(ABSTRACT_CACHE_FILE):
+        with open(ABSTRACT_CACHE_FILE, 'r', encoding='utf-8') as f:
+            abstract_cache = json.load(f)
+    else:
+        abstract_cache = {}
+    cache_size_at_start = len(abstract_cache)
         
     existing_by_doi = {}
     existing_norm_titles = []
@@ -142,7 +222,14 @@ def main():
                     continue
                     
                 abstract = reconstruct_abstract(work.get('abstract_inverted_index'))
-                
+
+                # If OpenAlex gave us no abstract and the title alone cannot settle
+                # relevance, ask Crossref/PubMed before judging. Without this the
+                # filter below sees an empty abstract, counts zero mentions, and
+                # discards a paper the OpenAlex query already matched.
+                if not abstract and not ('acomys' in title.lower() or 'spiny m' in title.lower()):
+                    abstract = get_external_abstract(doi, abstract_cache)
+
                 journal = primary_location.get('source').get('display_name', '') if primary_location and primary_location.get('source') else ""
                 
                 pdf = ""
@@ -196,6 +283,12 @@ def main():
             print(f"Error fetching page: {e}")
             break
             
+    if len(abstract_cache) != cache_size_at_start:
+        with open(ABSTRACT_CACHE_FILE, 'w', encoding='utf-8') as f:
+            json.dump(abstract_cache, f, indent=1, ensure_ascii=False, sort_keys=True)
+        print(f"Abstract cache: {cache_size_at_start} -> {len(abstract_cache)} DOIs "
+              f"({sum(1 for v in abstract_cache.values() if v)} with text)")
+
     print(f"Found {len(new_papers)} new valid papers.")
     
     # Re-calculate related articles across the full library
