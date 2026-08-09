@@ -76,7 +76,7 @@
   "authors": "Ebenezer NA Aryee, Hemendra J. Vekaria, Ashley W. Seifert",
   "year": 2026,
   "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-  "doi": "10.5281/zenodo.21399613",
+  "doi": "10.5281/zenodo.21399612",
   "reason": "data repository (figshare/zenodo)"
  },
  {
@@ -84,7 +84,7 @@
   "authors": "Ebenezer NA Aryee, Hemendra J. Vekaria, Ashley W. Seifert",
   "year": 2026,
   "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-  "doi": "10.5281/zenodo.21399612",
+  "doi": "10.5281/zenodo.21399613",
   "reason": "data repository (figshare/zenodo)"
  },
  {
@@ -108,7 +108,7 @@
   "authors": "Suyama H. Boyagoda, Madhava Meegaskumbura, Kelum Manamendra‐Arachchi",
   "year": 2026,
   "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-  "doi": "10.5281/zenodo.20400324",
+  "doi": "10.5281/zenodo.20400325",
   "reason": "data repository (figshare/zenodo)"
  },
  {
@@ -116,7 +116,7 @@
   "authors": "Suyama H. Boyagoda, Madhava Meegaskumbura, Kelum Manamendra‐Arachchi",
   "year": 2026,
   "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-  "doi": "10.5281/zenodo.20400325",
+  "doi": "10.5281/zenodo.20400324",
   "reason": "data repository (figshare/zenodo)"
  },
  {
@@ -140,6 +140,14 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.bk4vqv",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.9h3qp5",
   "reason": "GBIF occurrence download"
  },
@@ -149,14 +157,6 @@
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.8w4nt6",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.bk4vqv",
   "reason": "GBIF occurrence download"
  },
  {
@@ -236,7 +236,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.ag32nk",
+  "doi": "10.15468/dl.nh8wb9",
   "reason": "GBIF occurrence download"
  },
  {
@@ -244,7 +244,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.nh8wb9",
+  "doi": "10.15468/dl.ag32nk",
   "reason": "GBIF occurrence download"
  },
  {
@@ -260,23 +260,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.ht7adk",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.hdhpfq",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.27g6fw",
   "reason": "GBIF occurrence download"
  },
  {
@@ -300,6 +284,22 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.ht7adk",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.f5hb6c",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.kuajb4",
   "reason": "GBIF occurrence download"
  },
@@ -308,7 +308,31 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.27g6fw",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.9y78wb",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.au56bt",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.dv4gpe",
   "reason": "GBIF occurrence download"
  },
  {
@@ -364,7 +388,15 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.5txxv3",
+  "doi": "10.15468/dl.sj8389",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.augxcr",
   "reason": "GBIF occurrence download"
  },
  {
@@ -380,15 +412,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.sj8389",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.augxcr",
+  "doi": "10.15468/dl.5txxv3",
   "reason": "GBIF occurrence download"
  },
  {
@@ -468,23 +492,15 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.5864sn",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.hkvs5e",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.rrgckf",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.5864sn",
   "reason": "GBIF occurrence download"
  },
  {
@@ -516,6 +532,22 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.hkvs5e",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.y6vks5",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.5s548h",
   "reason": "GBIF occurrence download"
  },
@@ -525,14 +557,6 @@
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.mcaxam",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.y6vks5",
   "reason": "GBIF occurrence download"
  },
  {
@@ -556,7 +580,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.9zurmw",
+  "doi": "10.15468/dl.ktd36w",
   "reason": "GBIF occurrence download"
  },
  {
@@ -572,7 +596,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.3ras8h",
+  "doi": "10.15468/dl.9zurmw",
   "reason": "GBIF occurrence download"
  },
  {
@@ -580,7 +604,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.ktd36w",
+  "doi": "10.15468/dl.3ras8h",
   "reason": "GBIF occurrence download"
  },
  {
@@ -596,23 +620,15 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.yztweg",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.hj2brs",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.24m5ru",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.yztweg",
   "reason": "GBIF occurrence download"
  },
  {
@@ -636,15 +652,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.56kjen",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.xe25yq",
+  "doi": "10.15468/dl.hj2brs",
   "reason": "GBIF occurrence download"
  },
  {
@@ -676,6 +684,14 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.y9k4ca",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.bq677p",
   "reason": "GBIF occurrence download"
  },
@@ -684,7 +700,15 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.y9k4ca",
+  "doi": "10.15468/dl.xe25yq",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.56kjen",
   "reason": "GBIF occurrence download"
  },
  {
@@ -700,7 +724,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.pf466n",
+  "doi": "10.15468/dl.kcjak5",
   "reason": "GBIF occurrence download"
  },
  {
@@ -708,7 +732,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.kcjak5",
+  "doi": "10.15468/dl.pf466n",
   "reason": "GBIF occurrence download"
  },
  {
@@ -740,7 +764,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.7zr3p6",
+  "doi": "10.15468/dl.j2xuzj",
   "reason": "GBIF occurrence download"
  },
  {
@@ -748,7 +772,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.j2xuzj",
+  "doi": "10.15468/dl.7zr3p6",
   "reason": "GBIF occurrence download"
  },
  {
@@ -764,31 +788,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.r6pfj3",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.x58x37",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.4ff7m5",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.updetk",
   "reason": "GBIF occurrence download"
  },
  {
@@ -812,23 +812,31 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.kjnvkw",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.8qerwm",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.uwuubd",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.r6pfj3",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.4ff7m5",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.updetk",
   "reason": "GBIF occurrence download"
  },
  {
@@ -844,8 +852,32 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.8qerwm",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.3pzjwq",
   "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.kjnvkw",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.qw5dmx",
+  "reason": "neacomys (different genus)"
  },
  {
   "title": "Occurrence Download",
@@ -876,31 +908,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.qw5dmx",
-  "reason": "neacomys (different genus)"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.tm9mbw",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.urcfzj",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.fqsuph",
   "reason": "GBIF occurrence download"
  },
  {
@@ -916,15 +924,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.qm782a",
-  "reason": "neacomys (different genus)"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.6ry9ju",
+  "doi": "10.15468/dl.fqsuph",
   "reason": "GBIF occurrence download"
  },
  {
@@ -940,8 +940,24 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.dzwcub",
+  "doi": "10.15468/dl.6ry9ju",
   "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.tm9mbw",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.qm782a",
+  "reason": "neacomys (different genus)"
  },
  {
   "title": "Occurrence Download",
@@ -964,15 +980,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.pszgtj",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.8y8tz5",
+  "doi": "10.15468/dl.dzwcub",
   "reason": "GBIF occurrence download"
  },
  {
@@ -988,7 +996,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.ssjvcc",
+  "doi": "10.15468/dl.8y8tz5",
   "reason": "GBIF occurrence download"
  },
  {
@@ -997,6 +1005,22 @@
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.5xndyj",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.pszgtj",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.ssjvcc",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1020,14 +1044,6 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.j3n5wy",
-  "reason": "neacomys (different genus)"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.wes9j5",
   "reason": "GBIF occurrence download"
  },
@@ -1036,7 +1052,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.2r258u",
+  "doi": "10.15468/dl.qwdh8g",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1044,7 +1060,15 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.u64ejy",
+  "doi": "10.15468/dl.j3n5wy",
+  "reason": "neacomys (different genus)"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.2r258u",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1060,7 +1084,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.7rbp5h",
+  "doi": "10.15468/dl.u64ejy",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1092,15 +1116,7 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.bjj2me",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
-  "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.t23pgr",
+  "doi": "10.15468/dl.7rbp5h",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1116,7 +1132,31 @@
   "authors": "GBIF.org User",
   "year": 2026,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.t23pgr",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.7gauca",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.bjj2me",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.org User",
+  "year": 2026,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.hwtzhs",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1128,12 +1168,12 @@
   "reason": "GBIF occurrence download"
  },
  {
-  "title": "Occurrence Download",
-  "authors": "GBIF.org User",
+  "title": "Paramyxoviruses: validation of molecular diagnostic methods and viral diversity in wildlife",
+  "authors": "Emilia Pulkkinen",
   "year": 2026,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.hwtzhs",
-  "reason": "GBIF occurrence download"
+  "journal": "Työväentutkimus Vuosikirja",
+  "doi": "",
+  "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
   "title": "Possibilities of modeling endocrinopathies using adrenal diseases as an example",
@@ -1196,7 +1236,7 @@
   "authors": "Elton, Nomer, Preston",
   "year": 2026,
   "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-  "doi": "10.5281/zenodo.20601269",
+  "doi": "10.5281/zenodo.20601258",
   "reason": "data repository (figshare/zenodo)"
  },
  {
@@ -1204,15 +1244,7 @@
   "authors": "Elton, Nomer, Preston",
   "year": 2026,
   "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-  "doi": "10.5281/zenodo.20601258",
-  "reason": "data repository (figshare/zenodo)"
- },
- {
-  "title": "Versioned Archive and Review of Biotic Interactions and Taxon Names Found within millerse/Lice hash://md5/10626e5b7dae731bce17529093560a39",
-  "authors": "Elton, Nomer, Preston",
-  "year": 2026,
-  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-  "doi": "10.5281/zenodo.20601820",
+  "doi": "10.5281/zenodo.20601269",
   "reason": "data repository (figshare/zenodo)"
  },
  {
@@ -1221,6 +1253,14 @@
   "year": 2026,
   "journal": "Zenodo (CERN European Organization for Nuclear Research)",
   "doi": "10.5281/zenodo.20601862",
+  "reason": "data repository (figshare/zenodo)"
+ },
+ {
+  "title": "Versioned Archive and Review of Biotic Interactions and Taxon Names Found within millerse/Lice hash://md5/10626e5b7dae731bce17529093560a39",
+  "authors": "Elton, Nomer, Preston",
+  "year": 2026,
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "doi": "10.5281/zenodo.20601820",
   "reason": "data repository (figshare/zenodo)"
  },
  {
@@ -1460,7 +1500,7 @@
   "authors": "GBIF.Org User",
   "year": 2024,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.2jmfwe",
+  "doi": "10.15468/dl.gh9heu",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1468,7 +1508,7 @@
   "authors": "GBIF.Org User",
   "year": 2024,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.gh9heu",
+  "doi": "10.15468/dl.2jmfwe",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1668,7 +1708,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.4gzu66",
+  "doi": "10.15468/dl.2zm39c",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1676,7 +1716,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.2zm39c",
+  "doi": "10.15468/dl.4gzu66",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1716,7 +1756,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.btszwk",
+  "doi": "10.15468/dl.jq82gn",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1724,7 +1764,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.jq82gn",
+  "doi": "10.15468/dl.btszwk",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1740,6 +1780,14 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.etj34k",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2023,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.5b3m8d",
   "reason": "GBIF occurrence download"
  },
@@ -1748,7 +1796,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.etj34k",
+  "doi": "10.15468/dl.b8m4uk",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1772,7 +1820,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.b8m4uk",
+  "doi": "10.15468/dl.faw7vm",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1796,38 +1844,6 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.faw7vm",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2023,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.9ny69h",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2023,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.6yp262",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2023,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.8na2zg",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2023,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.dnav9b",
   "reason": "GBIF occurrence download"
  },
@@ -1844,7 +1860,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.c35uge",
+  "doi": "10.15468/dl.8na2zg",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1860,7 +1876,63 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.jc4tqm",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2023,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.j4jv7y",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2023,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.9ny69h",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2023,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.c35uge",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2023,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.6yp262",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2023,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.9z7krh",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2023,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.48x4dh",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2023,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.aq7a8h",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1884,39 +1956,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.jc4tqm",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2023,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.gw2fy4",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2023,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.9z7krh",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2023,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.aq7a8h",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2023,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.48x4dh",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1940,7 +1980,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.94g5q8",
+  "doi": "10.15468/dl.7v9wkv",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1948,7 +1988,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.8gagbf",
+  "doi": "10.15468/dl.94g5q8",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1964,7 +2004,7 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.7v9wkv",
+  "doi": "10.15468/dl.b6s9h8",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1972,7 +2012,23 @@
   "authors": "GBIF.Org User",
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.b6s9h8",
+  "doi": "10.15468/dl.8gagbf",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2023,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.gem6zz",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2023,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.dpr9jx",
   "reason": "GBIF occurrence download"
  },
  {
@@ -1989,22 +2045,6 @@
   "year": 2023,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.auqq7y",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2023,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.dpr9jx",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2023,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.gem6zz",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2100,6 +2140,22 @@
   "authors": "GBIF.Org User",
   "year": 2022,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.hzmfkz",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2022,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.4df9xv",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2022,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.den2c2",
   "reason": "GBIF occurrence download"
  },
@@ -2116,31 +2172,7 @@
   "authors": "GBIF.Org User",
   "year": 2022,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.4df9xv",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2022,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.hzmfkz",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2022,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.c8kd48",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2022,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.eek4gj",
+  "doi": "10.15468/dl.e5xuhh",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2164,7 +2196,7 @@
   "authors": "GBIF.Org User",
   "year": 2022,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.g2ch53",
+  "doi": "10.15468/dl.c8kd48",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2172,7 +2204,15 @@
   "authors": "GBIF.Org User",
   "year": 2022,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.e5xuhh",
+  "doi": "10.15468/dl.eek4gj",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2022,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.g2ch53",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2196,7 +2236,7 @@
   "authors": "GBIF.Org User",
   "year": 2022,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.928kns",
+  "doi": "10.15468/dl.e97y9j",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2204,7 +2244,7 @@
   "authors": "GBIF.Org User",
   "year": 2022,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.e97y9j",
+  "doi": "10.15468/dl.928kns",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2316,7 +2356,7 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.f7vu53",
+  "doi": "10.15468/dl.h5msvq",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2332,7 +2372,7 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.3mpcc2",
+  "doi": "10.15468/dl.f7vu53",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2340,7 +2380,7 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.h5msvq",
+  "doi": "10.15468/dl.3mpcc2",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2404,8 +2444,16 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.g84tvd",
-  "reason": "neacomys (different genus)"
+  "doi": "10.15468/dl.hrwept",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2021,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.2tkqac",
+  "reason": "GBIF occurrence download"
  },
  {
   "title": "Occurrence Download",
@@ -2420,16 +2468,8 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.hrwept",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2021,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.2tkqac",
-  "reason": "GBIF occurrence download"
+  "doi": "10.15468/dl.g84tvd",
+  "reason": "neacomys (different genus)"
  },
  {
   "title": "Occurrence Download",
@@ -2460,7 +2500,7 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.ccmaqs",
+  "doi": "10.15468/dl.cq6pye",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2468,7 +2508,7 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.cq6pye",
+  "doi": "10.15468/dl.ccmaqs",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2532,6 +2572,30 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.hfn386",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2021,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.6m7prk",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2021,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.9bghkz",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2021,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.7xe426",
   "reason": "GBIF occurrence download"
  },
@@ -2548,15 +2612,7 @@
   "authors": "GBIF.Org User",
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.hfn386",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2021,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.9bghkz",
+  "doi": "10.15468/dl.2c3vjd",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2565,14 +2621,6 @@
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.a2v5mt",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2021,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.6m7prk",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2589,14 +2637,6 @@
   "year": 2021,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.f9eqq9",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2021,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.2c3vjd",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2860,7 +2900,7 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.jh3kys",
+  "doi": "10.15468/dl.6lzdl1",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2868,7 +2908,7 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.6lzdl1",
+  "doi": "10.15468/dl.jh3kys",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2885,6 +2925,14 @@
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.hemzpe",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.ihhxar",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2932,7 +2980,7 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.ft9tc6",
+  "doi": "10.15468/dl.iq236k",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2940,7 +2988,7 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.ihhxar",
+  "doi": "10.15468/dl.ar7eik",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2964,7 +3012,7 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.iq236k",
+  "doi": "10.15468/dl.ft9tc6",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2972,7 +3020,15 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.ar7eik",
+  "doi": "10.15468/dl.2zcc0l",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.1pc167",
   "reason": "GBIF occurrence download"
  },
  {
@@ -2996,62 +3052,6 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.1pc167",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.2zcc0l",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.j0gvfu",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.iwoodi",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.bfojdi",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.7do8dn",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.hm0vpt",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.cfqaua",
   "reason": "GBIF occurrence download"
  },
@@ -3068,7 +3068,87 @@
   "authors": "GBIF.Org User",
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.j0gvfu",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.he9bdm",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.bfojdi",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.hm0vpt",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.enjxfj",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.7do8dn",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.btjsdl",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.iwoodi",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.9aqfjq",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.4jgsuo",
+  "reason": "GBIF occurrence download"
+ },
+ {
+  "title": "Occurrence Download",
+  "authors": "GBIF.Org User",
+  "year": 2018,
+  "journal": "Global Biodiversity Information Facility",
+  "doi": "10.15468/dl.domkzv",
   "reason": "GBIF occurrence download"
  },
  {
@@ -3085,46 +3165,6 @@
   "year": 2018,
   "journal": "Global Biodiversity Information Facility",
   "doi": "10.15468/dl.ceevcl",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.enjxfj",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.9aqfjq",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.domkzv",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.btjsdl",
-  "reason": "GBIF occurrence download"
- },
- {
-  "title": "Occurrence Download",
-  "authors": "GBIF.Org User",
-  "year": 2018,
-  "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.4jgsuo",
   "reason": "GBIF occurrence download"
  },
  {
@@ -3216,6 +3256,14 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
+  "title": "Preliminary study on investigation of zoonotic visceral leishmaniasis in endemic foci of Ethiopia by detecting Leishmania infections in rodents",
+  "authors": "Wossenseged Lemma, Asrat Bizuneh, Habte Tekie, Habtamu Gebrehana Belay, Hirut Wondimu, Aysheshm Kassahun, Welelta Shiferaw, Meshesha Balkew, Ibrahim Abassi, Gad Baneth, Asrat Hailu",
+  "year": 2017,
+  "journal": "Asian Pacific Journal of Tropical Medicine",
+  "doi": "10.1016/j.apjtm.2017.03.018",
+  "reason": "only 1 mention(s) in abstract, none in title"
+ },
+ {
   "title": "Revision of Neacomys spinosus (Thomas, 1882) (Rodentia: Cricetidae) with emphasis on Peruvian populations and the description of a new species",
   "authors": "Natalí Hurtado, Víctor Pacheco",
   "year": 2017,
@@ -3288,14 +3336,6 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "Evolutionary Developmental Genetics of amniote skin appendage orphology and coloration with special emphasis on squamate reptiles",
-  "authors": "Sophie A. Montandon",
-  "year": 2016,
-  "journal": "Archive ouverte UNIGE (University of Geneva)",
-  "doi": "10.13097/archive-ouverte/unige:86125",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "First rodent found with a human-like menstrual cycle",
   "authors": "Anna Nowogrodzki",
   "year": 2016,
@@ -3364,7 +3404,7 @@
   "authors": "GBIF.Org User",
   "year": 2016,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.enspbm",
+  "doi": "10.15468/dl.ekfzf0",
   "reason": "GBIF occurrence download"
  },
  {
@@ -3372,7 +3412,7 @@
   "authors": "GBIF.Org User",
   "year": 2016,
   "journal": "Global Biodiversity Information Facility",
-  "doi": "10.15468/dl.ekfzf0",
+  "doi": "10.15468/dl.enspbm",
   "reason": "GBIF occurrence download"
  },
  {
@@ -3688,14 +3728,6 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "Species diversity and abundance of small mammals in Nechisar National Park, Ethiopia",
-  "authors": "Sintayehu Workeneh, Afework Bekele, M. Balakrishnan",
-  "year": 2011,
-  "journal": "African Journal of Ecology",
-  "doi": "10.1111/j.1365-2028.2011.01303.x",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "A cytotaxonomic and DNA-based survey of rodents from Northern Cameroon and Western Chad",
   "authors": "Gauthier Dobigny, Caroline Tatard, Mamadou Kané, Philippe Gauthier, Carine Brouat, Khalilou Bâ, Jean‐Marc Duplantier",
   "year": 2010,
@@ -3742,14 +3774,6 @@
   "journal": "TURKISH JOURNAL OF ZOOLOGY",
   "doi": "10.3906/zoo-0905-2",
   "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
-  "title": "森山寛 職業安定局長説明 (ニュース特集 平成25年4月に新しい高齢者医療制度を施行--厚労省が全国厚生労働部局長会議で[平成]22年度重点施策を説明) -- (労働分科会 雇用保険法、派遣法を改正へ)",
-  "authors": "寛 森山",
-  "year": 2010,
-  "journal": "週刊社会保障",
-  "doi": "10.4102/ojvr.v79i1.405",
-  "reason": "CJK title"
  },
  {
   "title": "Arthropods as a prey resource: Patterns of diel, seasonal, and spatial availability",
@@ -3896,14 +3920,6 @@
   "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
-  "title": "Geographic variation in body size: the effects of ambient temperature and precipitation",
-  "authors": "Yoram Yom‐Tov, Eli Geffen",
-  "year": 2006,
-  "journal": "Oecologia",
-  "doi": "10.1007/s00442-006-0364-9",
-  "reason": "only 1 mention(s) in abstract, none in title"
- },
- {
   "title": "Precocial rodents as new experimental model to study the effects of altered gravitational conditions on fetal development",
   "authors": "Slobodan Sekulić, Ksenija Božić, Aleksandar Božić, J Borota, M. Ćulić",
   "year": 2006,
@@ -3974,14 +3990,6 @@
   "journal": "International Journal of Medical Microbiology Supplements",
   "doi": "10.1016/s1433-1128(04)80018-4",
   "reason": "no abstract available anywhere (unevaluatable)"
- },
- {
-  "title": "Víctor Pablo Pérez: La batuta de l'impuls",
-  "authors": "Mònica Pagès i Santacana",
-  "year": 2004,
-  "journal": "Catalunya música: Revista musical catalana",
-  "doi": "",
-  "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
   "title": "Human zoonotic cutaneous leishmaniasis and associated sand flies (Diptera: Psychodidae) in Sheikh Atiya village, southern Sinai, Egypt.",
@@ -4182,14 +4190,6 @@
   "journal": "Journal of Mammalian Evolution",
   "doi": "10.1023/a:1020508428859",
   "reason": "no abstract available anywhere (unevaluatable)"
- },
- {
-  "title": "Comprobación del Contenimiento de Consultas mediante Actualización de Vistas.",
-  "authors": "Carles Farré, Ernest Teniente, Toni Urpí",
-  "year": 1997,
-  "journal": "Neuroinformatics",
-  "doi": "10.1385/ni:5:1:79",
-  "reason": "only 1 mention(s) in abstract, none in title"
  },
  {
   "title": "Environmental cues and seasonal breeding patterns in Sahelian rodents",
@@ -4622,14 +4622,6 @@
   "journal": "Advances in experimental medicine and biology",
   "doi": "10.1007/978-1-4757-6903-6_28",
   "reason": "no abstract available anywhere (unevaluatable)"
- },
- {
-  "title": "161.ペルテス病における筋力低下(その他)",
-  "authors": "潤 木戸, 良昌 三宅, 義樹 小坂",
-  "year": 1981,
-  "journal": "リハビリテーション医学 : 日本リハビリテーション医学会誌",
-  "doi": "10.1007/s00436-007-0480-4",
-  "reason": "CJK title"
  },
  {
   "title": "Mammals of the Kammanassie Mountains, Southern Cape Province",

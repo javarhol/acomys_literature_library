@@ -256,6 +256,37 @@
     "redistributable": true
   },
   {
+    "id": "W7197101085",
+    "title": "Okahiiren (Acomys) alkion fibroblastisolujen CRISPR-Cas9 geenieditointi Trp53-geenin inaktivoinnin ja Ctnnb1-geenin eksoni 3 deleetion vaikutusten tutkimiseksi",
+    "authors": "Laura Rekonen",
+    "year": 2026,
+    "publication_date": "2026-06-30",
+    "oa_status": "green",
+    "license": null,
+    "redistributable": false,
+    "journal": "Työväentutkimus Vuosikirja",
+    "topics": [
+      "Cancer Resistance",
+      "Immunology & Infection",
+      "General Regeneration & Wound Healing",
+      "Cell & Molecular Biology",
+      "Tools & Techniques"
+    ],
+    "abstract": "The spiny mouse (Acomys) is known for its unusual regenerative abilities. In addition, it appears to be more resistant to cancer compared to the conventional house mouse (Mus Musculus). However, the molecular mechanisms behind these features remain still poorly understood, and little work has been done using spiny mouse cells in vitro. The aim of this thesis was to establish a gene-editing strategy for spiny mouse embryonic fibroblasts and to examine how changes in key cancer-related signalling pathways affect cellular behaviour in comparison to mouse embryonic fibroblasts. CRISPR-Cas9 genome editing coupled with electroporation was applied to disrupt Trp53 and to stabilise β-catenin through deletion of exon 3 of Ctnnb1 in both species. The resulting cell lines were analysed using genotyping, immunohistochemistry, proliferation assays, and pharmacological modulation of Wnt/β-catenin signalling. Loss of Trp53 led to increased proliferative capacity in both mouse and spiny mouse fibroblasts, indicating that p53-dependent regulation of proliferation is largely conserved between the two species. In contrast, sustained activation of Wnt/β-catenin signalling, either by genetic β-catenin stabilisation or by pharmacological inhibition of GSK-3β, did not promote proliferation and was associated with growth restriction and apoptotic-like responses in spiny mouse cells. However, when combined with Trp53 loss, β-catenin stabilisation no longer suppressed proliferation. Overall, this study shows that gene editing and functional signalling analyses can be applied to spiny mouse fibroblasts and that these cells respond differently to sustained Wnt/β-catenin activation compared to house mouse. While key oncogenic pathways are conserved, the results suggest that the cellular effects depend on species and cellular context, providing a basis for future studies using Acomys as a novel model in cancer-related research.",
+    "blurb": "",
+    "links": {
+      "doi": "",
+      "pdf": "http://hdl.handle.net/10138/635223",
+      "landing_page": "http://hdl.handle.net/10138/635223"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7171378091",
+      "W7171221649"
+    ]
+  },
+  {
     "id": "W7163527825",
     "title": "Mammalian Osteoderm Ultrastructure in the Armored <i>Acomys</i> Spiny Mouse Tail",
     "authors": "Joseph Deering, Malcolm Maden, Marc D. McKee",
@@ -2242,6 +2273,36 @@
     "oa_status": "diamond",
     "license": "cc-by",
     "redistributable": true
+  },
+  {
+    "id": "W7198725390",
+    "title": "Comparative Renal Development between Spiny Mouse (Acomys cahirinus) and House Mouse (Mus musculus)",
+    "authors": "Tanzina Azad",
+    "year": 2025,
+    "publication_date": "2025-02-25",
+    "oa_status": "green",
+    "license": null,
+    "redistributable": false,
+    "journal": "Työväentutkimus Vuosikirja",
+    "topics": [
+      "Immunology & Infection",
+      "Tissue: Internal Organs",
+      "Development",
+      "General Regeneration & Wound Healing"
+    ],
+    "abstract": "Understanding kidney development across species is crucial for understanding evolutionary and regenerative biology. This study examines the comparative renal development of regeneration-capable spiny mouse (Acomys cahirinus) and regeneration-incapable house mouse (Mus musculus), and human embryonic kidneys, focusing on the expression of SIX1, SIX2, PAX2, JAG1, and WT1. Immunostaining revealed that SIX1 is expressed in spiny mice and human kidneys but absent in house mice, suggesting a fundamental evolutionary divergence in nephron progenitor regulation. The study also assessed ureteric bud branching morphogenesis, showing that spiny mice exhibit a branching pattern similar to house mice, albeit with potential differences in growth dynamics. Finally, WNT pathway activation via GSK3 inhibition (BIO) successfully induced nephron differentiation in spiny mouse kidney mesenchyme, reinforcing the role of canonical WNT signaling in inducing nephron formation. These findings suggest that the spiny mouse shares key developmental traits with humans, making it a promising model for nephrogenesis and evolutionary studies. Understanding these mechanisms in spiny mice lays a vital groundwork for exploiting their regenerative capacities, potentially illuminating pathways to enhance human kidney repair.",
+    "blurb": "",
+    "links": {
+      "doi": "",
+      "pdf": "http://hdl.handle.net/10138/594531",
+      "landing_page": "http://hdl.handle.net/10138/594531"
+    },
+    "is_abstract_only": false,
+    "related_articles": [
+      "W7171686255",
+      "W7168267472",
+      "W7163196224"
+    ]
   },
   {
     "id": "W4407722812",
