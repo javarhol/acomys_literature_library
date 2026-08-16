@@ -1,5 +1,28 @@
 [
   {
+    "id": "W7201954261",
+    "title": "Hindlimb Representation in the Spiny Mouse Sensorimotor Cortex",
+    "authors": "Anton Beljajev, Aleksandr Veshchitskii, А. А. Mikhalkin, Polina Shkorbatova, Natalia Merkulyeva",
+    "year": 2026,
+    "publication_date": "2026-08-01",
+    "oa_status": "green",
+    "license": null,
+    "redistributable": false,
+    "journal": "The Journal of Comparative Neurology",
+    "topics": [
+      "Immunology & Infection"
+    ],
+    "abstract": "The Cairo spiny mouse (Acomys cahirinus), a promising animal model in neuroscience, lacks a detailed neuroanatomical map of its cerebral cortex. This study aims to delineate the location and internal subdivision of the sensorimotor cortex, specifically the region controlling the hindlimb. For this purpose, retrograde tracing from the lumbar spinal cord using Fast Blue was combined with immunohistochemical characterization using neuronal markers (NeuN, SMI-32, and calbindin 28 kDa) in adult animals. Fast Blue-labeled neurons were identified in layer V within the cortical region defined as the sensorimotor cortex responsible for hindlimb control. Within this region, the general cytoarchitecture was defined using NeuN, which allowed visualization of all cortical layers. The border between the lateral and medial sub-areas was clearly identified by SMI-32 immunostaining, which showed denser labeling in the lateral zone (presumably the primary somatosensory cortex) compared to the medial zone (presumably the secondary motor cortex). Within the defined layers and sub-areas, a comprehensive analysis of the calbindin-expressing interneuron population was performed, revealing significant interareal differences in soma size and cellular density of calbindin-positive neurons exclusively within layers III-IV. These findings provide the first detailed map of the hindlimb sensorimotor cortex in spiny mice, establishing a crucial neuroanatomical foundation for future studies using this novel model in sensorimotor research.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.1002/cne.70194",
+      "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13452439/",
+      "landing_page": "https://doi.org/10.1002/cne.70194"
+    },
+    "is_abstract_only": false,
+    "related_articles": []
+  },
+  {
     "id": "W7171686255",
     "title": "A Population of Myofibroblasts Localizing to the Panniculus Carnosus Skeletal Muscle During Skin Regeneration in the Spiny Mouse, Acomys",
     "authors": "Malcolm Maden, Abigail Nunez",
@@ -163,8 +186,8 @@
     "is_abstract_only": false,
     "related_articles": [
       "W7171686255",
-      "W7163196224",
-      "W7161959246"
+      "W7197101085",
+      "W7163196224"
     ],
     "publication_date": "2026-07-14",
     "oa_status": "green",
@@ -305,9 +328,9 @@
     },
     "is_abstract_only": false,
     "related_articles": [
+      "W7197101085",
       "W7163196224",
-      "W7159926740",
-      "W7155221134"
+      "W7159926740"
     ],
     "norm_title": "mammalian osteoderm ultrastructure in the armored iacomysi spiny mouse tail",
     "publication_date": "2026-06-04",
@@ -577,9 +600,9 @@
     },
     "is_abstract_only": false,
     "related_articles": [
+      "W7197101085",
       "W7163527825",
-      "W7163196224",
-      "W7159926740"
+      "W7163196224"
     ],
     "norm_title": "rat hepatitis e virus and novel paramyxoviruses in synanthropic rodents and shrews in kenya",
     "publication_date": "2026-04-21",
@@ -760,7 +783,7 @@
     "related_articles": [
       "W7171686255",
       "W7168267472",
-      "W7163196224"
+      "W7197101085"
     ],
     "norm_title": "immunometabolic resistors of aging in longlived golden spiny mice",
     "publication_date": "2026-02-25",
@@ -1072,9 +1095,9 @@
     },
     "is_abstract_only": true,
     "related_articles": [
+      "W7197101085",
       "W7163527825",
-      "W7163196224",
-      "W7159926740"
+      "W7163196224"
     ],
     "norm_title": "inhibition of immune cells in the acomys retina a method for investigating the role of microglia in the retinal damage response of spiny mice",
     "oa_status": null,
@@ -1651,7 +1674,7 @@
     "related_articles": [
       "W7171221649",
       "W7167728346",
-      "W7163527825"
+      "W7197101085"
     ],
     "norm_title": "morphological and transcriptomic analyses of the adrenal gland in acomys cahirinus a novel model for murine adrenal physiology",
     "publication_date": "2025-09-12",
@@ -2301,7 +2324,7 @@
     "related_articles": [
       "W7171686255",
       "W7168267472",
-      "W7163196224"
+      "W7197101085"
     ]
   },
   {
@@ -2651,7 +2674,7 @@
     "related_articles": [
       "W7168265330",
       "W7167728346",
-      "W7136736644"
+      "W7197101085"
     ],
     "norm_title": "thymidine analog labeling of proliferating cells v1",
     "publication_date": "2024-12-06",
@@ -5194,9 +5217,9 @@
     },
     "is_abstract_only": false,
     "related_articles": [
+      "W7197101085",
       "W4404016759",
-      "W4403853041",
-      "W4292492313"
+      "W4403853041"
     ],
     "norm_title": "referee report for tumor suppressors inhibit reprogramming of african spiny mouse acomys fibroblasts to induced pluripotent stem cells version 1 peer review 1 approved",
     "publication_date": "2022-01-01",
@@ -5222,9 +5245,9 @@
     },
     "is_abstract_only": false,
     "related_articles": [
+      "W7197101085",
       "W4404016759",
-      "W4403853041",
-      "W4292492313"
+      "W4403853041"
     ],
     "norm_title": "referee report for tumor suppressors inhibit reprogramming of african spiny mouse acomys fibroblasts to induced pluripotent stem cells version 1 peer review 2 approved",
     "publication_date": "2022-01-01",
@@ -5304,7 +5327,7 @@
     "related_articles": [
       "W7171686255",
       "W7168267472",
-      "W7163196224"
+      "W7197101085"
     ],
     "publication_date": "2022-01-01",
     "oa_status": "green",
@@ -5711,8 +5734,8 @@
     "is_abstract_only": true,
     "related_articles": [
       "W7167728346",
-      "W7163527825",
-      "W7163196224"
+      "W7197101085",
+      "W7163527825"
     ],
     "norm_title": "peer review 1 of the spleen bacteriome of wild rodents and shrews from marigat baringo county kenya v01",
     "publication_date": "2021-09-02",
@@ -5741,8 +5764,8 @@
     "is_abstract_only": true,
     "related_articles": [
       "W7167728346",
-      "W7163527825",
-      "W7163196224"
+      "W7197101085",
+      "W7163527825"
     ],
     "norm_title": "peer review 3 of the spleen bacteriome of wild rodents and shrews from marigat baringo county kenya v02",
     "publication_date": "2021-09-02",
@@ -5771,8 +5794,8 @@
     "is_abstract_only": true,
     "related_articles": [
       "W7167728346",
-      "W7163527825",
-      "W7163196224"
+      "W7197101085",
+      "W7163527825"
     ],
     "norm_title": "peer review 1 of the spleen bacteriome of wild rodents and shrews from marigat baringo county kenya v02",
     "publication_date": "2021-09-02",
@@ -5801,8 +5824,8 @@
     "is_abstract_only": true,
     "related_articles": [
       "W7167728346",
-      "W7163527825",
-      "W7163196224"
+      "W7197101085",
+      "W7163527825"
     ],
     "norm_title": "peer review 2 of the spleen bacteriome of wild rodents and shrews from marigat baringo county kenya v01",
     "publication_date": "2021-09-02",
@@ -5832,8 +5855,8 @@
     "is_abstract_only": false,
     "related_articles": [
       "W7167728346",
-      "W7163527825",
-      "W7163196224"
+      "W7197101085",
+      "W7163527825"
     ],
     "publication_date": "2021-09-02",
     "oa_status": "gold",
@@ -6383,8 +6406,8 @@
     "is_abstract_only": false,
     "related_articles": [
       "W7167728346",
-      "W7163527825",
-      "W7163196224"
+      "W7197101085",
+      "W7163527825"
     ],
     "norm_title": "first record of leishmania spp in birds and bats from sudan",
     "publication_date": "2020-12-01",
@@ -6617,7 +6640,7 @@
     "related_articles": [
       "W7171686255",
       "W7168267472",
-      "W7163527825"
+      "W7197101085"
     ]
   },
   {
@@ -8667,8 +8690,8 @@
     "is_abstract_only": false,
     "related_articles": [
       "W7171221649",
-      "W7163161046",
-      "W7163196224"
+      "W7197101085",
+      "W7163161046"
     ],
     "norm_title": "the effects of dexamethasone administered during pregnancy on the postpartum spiny mouse ovary",
     "publication_date": "2017-08-21",
@@ -8999,7 +9022,7 @@
     "related_articles": [
       "W7171686255",
       "W7168267472",
-      "W7163527825"
+      "W7197101085"
     ],
     "norm_title": "macrophages are necessary for epimorphic regeneration in african spiny mice",
     "publication_date": "2017-05-15",
@@ -9531,8 +9554,8 @@
     "is_abstract_only": false,
     "related_articles": [
       "W7171221649",
-      "W7163161046",
-      "W7163196224"
+      "W7197101085",
+      "W7163161046"
     ],
     "norm_title": "development of the adrenal gland and brain of the spiny mouse in relation to dehydroepiandrosterone dhea biosynthesis",
     "publication_date": "2017-01-01",
@@ -10617,9 +10640,9 @@
     },
     "is_abstract_only": false,
     "related_articles": [
+      "W7197101085",
       "W7163527825",
-      "W7163196224",
-      "W7159926740"
+      "W7163196224"
     ],
     "norm_title": "longterm spatiotemporal stability and dynamic changes in the haemoparasite community of spiny mice acomys dimidiatus in four montane wadis in the st katherine protectorate sinai egypt",
     "publication_date": "2016-04-08",
@@ -11537,9 +11560,9 @@
     },
     "is_abstract_only": false,
     "related_articles": [
+      "W7197101085",
       "W7163527825",
-      "W7163196224",
-      "W7159926740"
+      "W7163196224"
     ],
     "norm_title": "babesia behnkei sp nov a novel babesia species infecting isolated populations of wagner’s gerbil dipodillus dasyurus from the sinai mountains egypt",
     "publication_date": "2014-12-01",
@@ -11655,7 +11678,7 @@
     "related_articles": [
       "W7168265330",
       "W7167728346",
-      "W7161148849"
+      "W7197101085"
     ],
     "norm_title": "two waves of anisotropic growth generate enlarged follicles in the spiny mouse",
     "publication_date": "2014-09-25",
@@ -12056,7 +12079,7 @@
     "related_articles": [
       "W7171686255",
       "W7171221649",
-      "W7163161046"
+      "W7197101085"
     ],
     "norm_title": "prenatal exposure to the viral mimetic poly ic alters fetal brain cytokine expression and postnatal behaviour",
     "publication_date": "2014-01-01",
@@ -12091,8 +12114,8 @@
     "is_abstract_only": false,
     "related_articles": [
       "W7171221649",
-      "W7163527825",
-      "W7163196224"
+      "W7197101085",
+      "W7163527825"
     ]
   },
   {
@@ -12731,7 +12754,7 @@
     "related_articles": [
       "W7171221649",
       "W7167728346",
-      "W7163527825"
+      "W7197101085"
     ],
     "norm_title": "poster abstracts",
     "publication_date": "2013-03-21",
@@ -15301,8 +15324,8 @@
     "is_abstract_only": false,
     "related_articles": [
       "W7167728346",
-      "W7163527825",
-      "W7163196224"
+      "W7197101085",
+      "W7163527825"
     ],
     "oa_status": "closed",
     "license": null,
@@ -15427,9 +15450,9 @@
     },
     "is_abstract_only": false,
     "related_articles": [
+      "W7197101085",
       "W7163527825",
-      "W7163196224",
-      "W7159926740"
+      "W7163196224"
     ],
     "oa_status": "closed",
     "license": null,
@@ -15661,9 +15684,9 @@
     },
     "is_abstract_only": false,
     "related_articles": [
+      "W7197101085",
       "W7161158315",
-      "W7161959246",
-      "W7161148849"
+      "W7161959246"
     ],
     "norm_title": "neuroprotective properties of melatonin in a model of birth asphyxia in the spiny mouse ltigtacomys cahirinusltigt",
     "publication_date": "2009-01-01",
@@ -18637,6 +18660,27 @@
     "redistributable": true
   },
   {
+    "id": "W2354872037",
+    "title": "Rongeurs du Miocène supérieur de Chorora, Ethiopie: Murinae, Dendromurinae et conclusions.",
+    "authors": "Denis Geraads",
+    "year": 2001,
+    "publication_date": "2001-07-30",
+    "oa_status": "closed",
+    "license": null,
+    "redistributable": false,
+    "journal": "Palaeovertebrata",
+    "topics": [],
+    "abstract": "The subfamilies Murinae and Dendromurinae both include 4 species at Chorora. Among the former, while Preacomys nov. gen. seems to be a forerunner of Acomys, the affinities of the remaining, poorly known taxa, are more difficult to evaluate. The bulk of the fauna, remarkably, consists of Dendromurines. Their similarities with those of Ngorora tends to pull the site back in time, but the large size and diversity of Murines fit better an age more recent than the very beginning of the Late Miocene.",
+    "blurb": "",
+    "links": {
+      "doi": "https://doi.org/10.18563/pv.30.1-2.89-109",
+      "pdf": "",
+      "landing_page": "https://doi.org/10.18563/pv.30.1-2.89-109"
+    },
+    "is_abstract_only": false,
+    "related_articles": []
+  },
+  {
     "id": "W2055419666",
     "title": "Phylogeny of Acomys spinosissimus (Rodentia, Muridae) from north Malawi and Tanzania: evidence from morphological and molecular analysis",
     "authors": "Pierre-Olivier Barôme, V. Volobouev, Monique Monnerot, John K. E. Mfune, Wilbert N. Chitaukali, Jean-Claude Gautun, Christiane Denys",
@@ -18857,8 +18901,8 @@
     "is_abstract_only": false,
     "related_articles": [
       "W7167728346",
-      "W7163527825",
-      "W7163161046"
+      "W7197101085",
+      "W7163527825"
     ],
     "norm_title": "albert renold memorial lecture molecular background of nutritionally induced insulin resistance leadingto type 2 diabetes – from animal models to humans",
     "publication_date": "2001-01-01",
@@ -21466,9 +21510,9 @@
     },
     "is_abstract_only": true,
     "related_articles": [
+      "W7197101085",
       "W7163527825",
-      "W7163196224",
-      "W7159926740"
+      "W7163196224"
     ],
     "norm_title": "systématique moléculaire immunologie de quelques muridae actuels et fossiles",
     "publication_date": "1991-01-01",
@@ -23945,8 +23989,8 @@
     "is_abstract_only": false,
     "related_articles": [
       "W7171221649",
-      "W7163527825",
-      "W7163161046"
+      "W7197101085",
+      "W7163527825"
     ],
     "oa_status": "bronze",
     "license": null,
@@ -24415,8 +24459,8 @@
     "is_abstract_only": false,
     "related_articles": [
       "W7171221649",
-      "W7163527825",
-      "W7163196224"
+      "W7197101085",
+      "W7163527825"
     ],
     "publication_date": "1980-01-01",
     "oa_status": "bronze",
